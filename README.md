@@ -1,11 +1,19 @@
 # Descrption
-Overhauls emails responds to signals. Making them feel more lively and less samey.
-- Made for VotV 0.7.0b3
+Overhauls emails responds to signals, making them feel more alive and more closely match their stated personalities said by the devs.
+- Made for VotV 0.7.0b3/pa07_0011
+
+## Personalities
+- Dr. Ena
+	Cold blooded, rational but careful goth french woman. Can be harsh but cares for Dr. Kel.
+- Dr. Max
+	Soft and young graduate, awkard and easily scared. Friends of Ena and Kel.
+- Dr. Ken
+	Outgoing and rational guy, but isn't part of Kel's friend group.
+
+If an email feels out of character or lacking a key detail, take a look at the "How to report bugs" section to learn how to contact me.
 
 ## Previews
-![Dr. Ken Preview](https://i.ibb.co/xDRS4G1/email-example1.png?raw=true)
-![Dr. Max Preview](https://i.ibb.co/xDRS4G1/email-example1.png?raw=true)
-![Dr. Ena Preview](https://i.ibb.co/xDRS4G1/email-example1.png?raw=true)
+![Preview](https://i.ibb.co/xDRS4G1/email-example1.png?raw=true)
 More to come...
 
 ## Features
@@ -29,8 +37,9 @@ If you're using UE4SS, make sure ` BPModLoaderMod : 1 ` is set to 1 inside ` mod
 Extract  `EmailPersonalities.pak ` from the pak folder into ` <Game Directory>\VotV\Content\Paks\LogicMods `
 
 ## How to report bugs, spelling mistakes, or more.
-Message me on discord via the [EternityDev Games discord](https://discord.com/invite/WKBvqu4tjV). My discord is ` scarlettruby `
+Message me on discord via the [EternityDev Games discord server](https://discord.com/invite/WKBvqu4tjV). My discord is ` scarlettruby `
 
 ## Credits
+- Writing, Axhell and Moon
 - VoidMod Creation, Gato
 - Fusion Creation, NynrahGhost
