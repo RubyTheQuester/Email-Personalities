@@ -32,7 +32,7 @@ First you need either shimloader or [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS
 
 If you're using UE4SS, make sure ` BPModLoaderMod : 1 ` is set to 1 inside ` mods.txt ` located in the mods folder exctracted from UE4SS zip file, or mods will not work
 
-Extract  `EmailPersonalities.pak ` from the pak folder into ` <Game Directory>\VotV\Content\Paks\LogicMods `
+Extract  ` EmailPersonalities.pak ` from the pak folder into ` <Game Directory>\VotV\Content\Paks\LogicMods `
 
 ## How to report bugs, spelling mistakes, or more.
 Message me on discord via the [EternityDev Games discord server](https://discord.com/invite/WKBvqu4tjV). My discord is ` scarlettruby `
