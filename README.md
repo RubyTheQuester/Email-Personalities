@@ -4,18 +4,16 @@ Overhauls emails responds to signals, making them feel more alive and more close
 
 ## Personalities
 - Dr. Ena
-	Cold blooded, rational but careful goth french woman. Can be harsh but cares for Dr. Kel.
+	- Cold blooded, rational but careful goth french woman. Can be harsh but cares for Dr. Kel.
 - Dr. Max
-	Soft and young graduate, awkard and easily scared. Friends of Ena and Kel.
+	- Soft and young graduate, awkard and easily scared. Friends of Ena and Kel.
 - Dr. Ken
-	Outgoing and rational guy, but isn't part of Kel's friend group.
+	- Outgoing and rational guy, but isn't part of Kel's friend group.
 
 If an email feels out of character or lacking a key detail, take a look at the "How to report bugs" section to learn how to contact me.
 
 ## Previews
-![Preview](https://i.ibb.co/xDRS4G1/email-example1.png?raw=true)
-More to come...
-
+![Preview](https://raw.githubusercontent.com/RubyTheQuester/Email-Personalities/main/Sources/example.png?raw=true)
 ## Features
 ### Current Features
 - Ena, Max, and Ken have rewritten emails for more fleshed out responds to generic signals that showcase their personalities more directly.
