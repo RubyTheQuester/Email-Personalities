@@ -1,6 +1,8 @@
 # Descrption
 Overhauls emails responds to signals, making them feel more alive and more closely match their stated personalities said by the devs.
+
 - Made for VotV 0.7.0b3/pa07_0011
+- Updated to work with Voidmod 2.0.0
 
 ## Personalities
 - Dr. Ena
