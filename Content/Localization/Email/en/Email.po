@@ -1,0 +1,2577 @@
+﻿# Email English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Email\n"
+"POT-Creation-Date: 2025-01-01 23:04\n"
+"PO-Revision-Date: 2025-01-01 23:04\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	011B77E2401CD332962C5B95E661BB5E
+#. SourceLocation:	/Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",011B77E2401CD332962C5B95E661BB5E"
+msgid "wip"
+msgstr "wip"
+
+#. Key:	01489D4A450FB4B698C6DAABC085F028
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",01489D4A450FB4B698C6DAABC085F028"
+msgid "Activate"
+msgstr "Activate"
+
+#. Key:	01493B8945E7AAADD9C20DAFE10195AF
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",01493B8945E7AAADD9C20DAFE10195AF"
+msgid "Hey, you should probably process these signals to a higher level. We really can't make out any useful data.\\\\- Dr. Ken"
+msgstr "Hey, you should probably process these signals to a higher level. We really can't make out any useful data.\\\\- Dr. Ken"
+
+#. Key:	01E4085445714E4CB4EFD580553E2A0F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",01E4085445714E4CB4EFD580553E2A0F"
+msgid "very good and clear"
+msgstr "very good and clear"
+
+#. Key:	02B8FA1A49D5167D980702B31594C32B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",02B8FA1A49D5167D980702B31594C32B"
+msgid " either toi ou moi gotta get a back up of this data, because i really wanna keep it. it sounds awesome, kel. can not wait until the year is up\\\\- ena"
+msgstr " either toi ou moi gotta get a back up of this data, because i really wanna keep it. it sounds awesome, kel. can not wait until the year is up\\\\- ena"
+
+#. Key:	02D82D4F4AC6123A5F478C860293627C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",02D82D4F4AC6123A5F478C860293627C"
+msgid "bao shouldn't bitch about this, but he still does. good enough for us, though. thanks, kel\\\\- ena"
+msgstr "bao shouldn't bitch about this, but he still does. good enough for us, though. thanks, kel\\\\- ena"
+
+#. Key:	031EABF34EADEDC926C22082D3BD74C8
+#. SourceLocation:	/Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",031EABF34EADEDC926C22082D3BD74C8"
+msgid "entities"
+msgstr "entities"
+
+#. Key:	04E89EBF4405E23911A1B79F08AB127D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",04E89EBF4405E23911A1B79F08AB127D"
+msgid "Quality is good."
+msgstr "Quality is good."
+
+#. Key:	056F3E1D4AC91823F381D3B4293B93D9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",056F3E1D4AC91823F381D3B4293B93D9"
+msgid "hey kel, i think i can hear something in this. try processing the data if you have a backup. could be useful\\\\- ena"
+msgstr "hey kel, i think i can hear something in this. try processing the data if you have a backup. could be useful\\\\- ena"
+
+#. Key:	06187BB141E1A74B8B6826A8135EBA46
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:Email - Find Specific [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:Email - Find Specific [Script Bytecode]
+msgctxt ",06187BB141E1A74B8B6826A8135EBA46"
+msgid "Couldn't find datatable row \"{name}\"..."
+msgstr "Couldn't find datatable row \"{name}\"..."
+
+#. Key:	07125D5941FC1412891043BEA8E5FABA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",07125D5941FC1412891043BEA8E5FABA"
+msgid "thanks kel"
+msgstr "thanks kel"
+
+#. Key:	0807FFDF4439EF647115DD819039B1DE
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",0807FFDF4439EF647115DD819039B1DE"
+msgid "Pickup"
+msgstr "Pickup"
+
+#. Key:	088174BB40407C20C719A08A04567345
+#. SourceLocation:	/Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",088174BB40407C20C719A08A04567345"
+msgid "food"
+msgstr "food"
+
+#. Key:	091270314DB39BE4A339D0B7A2CF3FC0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",091270314DB39BE4A339D0B7A2CF3FC0"
+msgid "Bao was right about that array. The results you can get from there is really good even within this state. I am getting my team to refine the data right now, Kel.\\\\- Dr. Ken"
+msgstr "Bao was right about that array. The results you can get from there is really good even within this state. I am getting my team to refine the data right now, Kel.\\\\- Dr. Ken"
+
+#. Key:	09C62041453D864F7DF02C94E639EA78
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",09C62041453D864F7DF02C94E639EA78"
+msgid "I can already tell our names will be in the history books with this one. We gotta get drinks with Ena after this!\\\\Cheers,\\- Dr. Max"
+msgstr "I can already tell our names will be in the history books with this one. We gotta get drinks with Ena after this!\\\\Cheers,\\- Dr. Max"
+
+#. Key:	0B81E22B4D7DD20E30B8E6B3D327E5D0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Body
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Body
+msgctxt ",0B81E22B4D7DD20E30B8E6B3D327E5D0"
+msgid "hey, you better not be dead yet. i would be pissed at you if you died only a week in. i been analazing the signals you been sending in, saving any i think is worth keeping. hope you're eating well out there.\r\n\r\n- ena"
+msgstr "hey, you better not be dead yet. i would be pissed at you if you died only a week in. i been analazing the signals you been sending in, saving any i think is worth keeping. hope you're eating well out there.\r\n\r\n- ena"
+
+#. Key:	0DBDBA3F4A2CE7963FFE9AAF87EDF5A8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",0DBDBA3F4A2CE7963FFE9AAF87EDF5A8"
+msgid "Quality isn't great, so try to send in better signals when you can, dude. I know the machines you're working with are old so don't stress out about it too much, okay?\\\\- Dr. Ken"
+msgstr "Quality isn't great, so try to send in better signals when you can, dude. I know the machines you're working with are old so don't stress out about it too much, okay?\\\\- Dr. Ken"
+
+#. Key:	0DEEC4114BDA991B7102FAB792F2D8E5
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.LoadedMods.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.LoadedMods.Text
+msgctxt ",0DEEC4114BDA991B7102FAB792F2D8E5"
+msgid "0 Mods Successfully Loaded"
+msgstr "0 Mods Successfully Loaded"
+
+#. Key:	0EBDA9C442B2667840C6C096551A8459
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",0EBDA9C442B2667840C6C096551A8459"
+msgid "The quality is good, but still need refining. We will try to refine it ourselves so don't worry about it, dude. If we find anything worthwhile I'll send you an email.\\\\- Dr. Ken"
+msgstr "The quality is good, but still need refining. We will try to refine it ourselves so don't worry about it, dude. If we find anything worthwhile I'll send you an email.\\\\- Dr. Ken"
+
+#. Key:	10C5436E4D733195CDFA61BFC6328A9E
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(23 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(23 - Value).DisplayNameMap
+msgctxt ",10C5436E4D733195CDFA61BFC6328A9E"
+msgid "Shift + E - Drag"
+msgstr "Shift + E - Drag"
+
+#. Key:	11DFDAEC415C97F158A32DAFF94D7CDD
+#. SourceLocation:	/Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",11DFDAEC415C97F158A32DAFF94D7CDD"
+msgid "storage"
+msgstr "storage"
+
+#. Key:	12B6E7AA47A9E2062605ABB41E849BFD
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",12B6E7AA47A9E2062605ABB41E849BFD"
+msgid "interest_noisy"
+msgstr "interest_noisy"
+
+#. Key:	1312D91E47AE6490DB13E6B592CAA168
+#. SourceLocation:	/Game/main/enums/enum_char.enum_char.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_char.enum_char.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",1312D91E47AE6490DB13E6B592CAA168"
+msgid "tutorial"
+msgstr "tutorial"
+
+#. Key:	1378987B4665D0EB7970CE989FF26969
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",1378987B4665D0EB7970CE989FF26969"
+msgid "MainRoom"
+msgstr "MainRoom"
+
+#. Key:	15F70FD941E5122AB81E35A644089BAA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",15F70FD941E5122AB81E35A644089BAA"
+msgid "Bao doesn't like this."
+msgstr "Bao doesn't like this."
+
+#. Key:	165077934E497AA7F6B2F18327A74450
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.ModSettingsText_1.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.ModSettingsText_1.Text
+msgctxt ",165077934E497AA7F6B2F18327A74450"
+msgid "Active Mods List"
+msgstr "Active Mods List"
+
+#. Key:	16FCEBEF41F9DFFB3A288794B2A37917
+#. SourceLocation:	/Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",16FCEBEF41F9DFFB3A288794B2A37917"
+msgid "Hard"
+msgstr "Hard"
+
+#. Key:	1767CD28418CF577DF316781FDFCAFFA
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",1767CD28418CF577DF316781FDFCAFFA"
+msgid "Dr_Ken"
+msgstr "Dr_Ken"
+
+#. Key:	17F2A9B14646101292DE2DAD77706090
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",17F2A9B14646101292DE2DAD77706090"
+msgid "Do you hear something?"
+msgstr "Do you hear something?"
+
+#. Key:	19352D004239FA2513210095FF2B9BA0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",19352D004239FA2513210095FF2B9BA0"
+msgid "Is there something weird with the drives you sent? Something about the data feels off. I don't know if it's the audio or what, but I think we need to refine the drives a bit more.\\\\Sincerely,\\- Dr. Max"
+msgstr "Is there something weird with the drives you sent? Something about the data feels off. I don't know if it's the audio or what, but I think we need to refine the drives a bit more.\\\\Sincerely,\\- Dr. Max"
+
+#. Key:	199A2CC24488BDAEA1FF2D814B989A33
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",199A2CC24488BDAEA1FF2D814B989A33"
+msgid "Data is shoddy."
+msgstr "Data is shoddy."
+
+#. Key:	1AD953CB4743C256AD8145B4F5FA2D02
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",1AD953CB4743C256AD8145B4F5FA2D02"
+msgid "exoplanet"
+msgstr "exoplanet"
+
+#. Key:	1AF0B1F34C2C1EEB35F1A9BE1DBAE3A7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",1AF0B1F34C2C1EEB35F1A9BE1DBAE3A7"
+msgid "Kel, the data you sent is so extremely clear! We can hear so much of the electromgnetic winds! This data is really good for our research.\\\\Thanks,\\- Dr. Max"
+msgstr "Kel, the data you sent is so extremely clear! We can hear so much of the electromgnetic winds! This data is really good for our research.\\\\Thanks,\\- Dr. Max"
+
+#. Key:	1B1C7F444CBFDF6195B92ABCCB0D7F21
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",1B1C7F444CBFDF6195B92ABCCB0D7F21"
+msgid "Hey, needs processing."
+msgstr "Hey, needs processing."
+
+#. Key:	1B83B7874045826A6351CE98D194DDE5
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",1B83B7874045826A6351CE98D194DDE5"
+msgid "normal_noisy"
+msgstr "normal_noisy"
+
+#. Key:	1C653A084170B1FFE7A3A2B5BDBD19AC
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(32 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(32 - Value).DisplayNameMap
+msgctxt ",1C653A084170B1FFE7A3A2B5BDBD19AC"
+msgid "Brake toggle"
+msgstr "Brake toggle"
+
+#. Key:	1ED2E694405D2ABC8EBBA9AED72616DD
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(36 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(36 - Value).DisplayNameMap
+msgctxt ",1ED2E694405D2ABC8EBBA9AED72616DD"
+msgid "Polarization (right)"
+msgstr "Polarization (right)"
+
+#. Key:	1F85EC8B4692F12993994BAA19C8038A
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",1F85EC8B4692F12993994BAA19C8038A"
+msgid "UtilityCloset"
+msgstr "UtilityCloset"
+
+#. Key:	1FC029104CC996BBBCEE5E9F6714FE13
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",1FC029104CC996BBBCEE5E9F6714FE13"
+msgid "ServerRoom"
+msgstr "ServerRoom"
+
+#. Key:	202EB1CA4862BA20399A92B34D0257D9
+#. SourceLocation:	/Game/Mods/VoidMod2/VoidModInstance.VoidModInstance_C:ExecuteUbergraph_VoidModInstance [Script Bytecode]
+#: /Game/Mods/VoidMod2/VoidModInstance.VoidModInstance_C:ExecuteUbergraph_VoidModInstance [Script Bytecode]
+msgctxt ",202EB1CA4862BA20399A92B34D0257D9"
+msgid "Saving Mod Data..."
+msgstr "Saving Mod Data..."
+
+#. Key:	203E7FCA425C930E2E808C95C789EFE7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",203E7FCA425C930E2E808C95C789EFE7"
+msgid "Fantastic work!"
+msgstr "Fantastic work!"
+
+#. Key:	2183F32C474AD2807C050D9E04522F22
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_findme.event_email_findme_C:ExecuteUbergraph_event_email_findme [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_findme.event_email_findme_C:ExecuteUbergraph_event_email_findme [Script Bytecode]
+msgctxt ",2183F32C474AD2807C050D9E04522F22"
+msgid "{x2}\r\n\r\n- [{x}]"
+msgstr "{x2}\r\n\r\n- [{x}]"
+
+#. Key:	223A4D144BDBD7BB2CAFCAB967BB4171
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",223A4D144BDBD7BB2CAFCAB967BB4171"
+msgid "brown_dwarf"
+msgstr "brown_dwarf"
+
+#. Key:	224AF1EA4EA960ABAD1102A08402AC9F
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",224AF1EA4EA960ABAD1102A08402AC9F"
+msgid "Put"
+msgstr "Put"
+
+#. Key:	225842C248C78868DBDFFC89C6870D88
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",225842C248C78868DBDFFC89C6870D88"
+msgid "very useful and clear. i am sure ken is pleased about this. beau travail kel\\\\- ena"
+msgstr "very useful and clear. i am sure ken is pleased about this. beau travail kel\\\\- ena"
+
+#. Key:	22716ED04508FE67C7C7DCA70C952D00
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",22716ED04508FE67C7C7DCA70C952D00"
+msgid "listen to it together"
+msgstr "listen to it together"
+
+#. Key:	22C5E682408BB35E7FAD6B98703936A8
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",22C5E682408BB35E7FAD6B98703936A8"
+msgid "Edit"
+msgstr "Edit"
+
+#. Key:	232D78F84B975CF7872D7795790142E2
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.DonateLabel.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.DonateLabel.Text
+msgctxt ",232D78F84B975CF7872D7795790142E2"
+msgid "Support VoidMod Development"
+msgstr "Support VoidMod Development"
+
+#. Key:	2397C10F403BA80770014EAADF28ADF2
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.optionsmenu_option_bool_C:WidgetTree.OptionName.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.optionsmenu_option_bool_C:WidgetTree.OptionName.Text
+msgctxt ",2397C10F403BA80770014EAADF28ADF2"
+msgid "Haha Funny Variable Name"
+msgstr "Haha Funny Variable Name"
+
+#. Key:	25E6B33144FD03798FFF1B85D202870B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",25E6B33144FD03798FFF1B85D202870B"
+msgid "Great audio!"
+msgstr "Great audio!"
+
+#. Key:	2686D9764DA274BC7A33BD857F851A78
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",2686D9764DA274BC7A33BD857F851A78"
+msgid "the gun i left for you should be in the garage. next to it should be some ammo. keep it near by, kel. i really don't like this signal and it reminded me that you may not have found the gun yet. don't die out there\\\\- ena"
+msgstr "the gun i left for you should be in the garage. next to it should be some ammo. keep it near by, kel. i really don't like this signal and it reminded me that you may not have found the gun yet. don't die out there\\\\- ena"
+
+#. Key:	26B7EB4A49496D73C78C97898CEFD6FE
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",26B7EB4A49496D73C78C97898CEFD6FE"
+msgid "custom"
+msgstr "custom"
+
+#. Key:	279C97354E5571923186A38DD06EBC9F
+#. SourceLocation:	/Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+#: /Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+msgctxt ",279C97354E5571923186A38DD06EBC9F"
+msgid "[NO_TEXT_DATA_DETECTED]"
+msgstr "[NO_TEXT_DATA_DETECTED]"
+
+#. Key:	27C51D06455F9DE3A90E03B36BF935E2
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Interfaces/VoidMod_Base.VoidMod_Base_C:GetVoidmodInstance [Script Bytecode]
+#: /Game/Mods/VoidMod2/Assets/Interfaces/VoidMod_Base.VoidMod_Base_C:GetVoidmodInstance [Script Bytecode]
+msgctxt ",27C51D06455F9DE3A90E03B36BF935E2"
+msgid "Error: Couldn't Find VoidMod Instance"
+msgstr "Error: Couldn't Find VoidMod Instance"
+
+#. Key:	28FC9EDD401C996825119281B771BAC6
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",28FC9EDD401C996825119281B771BAC6"
+msgid "Bao was right."
+msgstr "Bao was right."
+
+#. Key:	29F178A648F6503717EDE0BF13333D97
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",29F178A648F6503717EDE0BF13333D97"
+msgid "gas_giant"
+msgstr "gas_giant"
+
+#. Key:	2A0C631B410599C508A51BBEC05D7385
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",2A0C631B410599C508A51BBEC05D7385"
+msgid "low quality"
+msgstr "low quality"
+
+#. Key:	2C5F14EF41AC5E40A1283CABCCEB520E
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.SocialsLabel.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.SocialsLabel.Text
+msgctxt ",2C5F14EF41AC5E40A1283CABCCEB520E"
+msgid "GatoDeveloper's Socials"
+msgstr "GatoDeveloper's Socials"
+
+#. Key:	2C79A73C48449563D271B68589D38BEA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",2C79A73C48449563D271B68589D38BEA"
+msgid "I been up all night doing tasks so I don't know if i'm just seeing/hearing things, but I really don't like this data, Kel. Please stay safe out there.\\\\- Dr. Max"
+msgstr "I been up all night doing tasks so I don't know if i'm just seeing/hearing things, but I really don't like this data, Kel. Please stay safe out there.\\\\- Dr. Max"
+
+#. Key:	2C82A35744FDCE378E9C4FA82EB037E0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",2C82A35744FDCE378E9C4FA82EB037E0"
+msgid "Quality isn't great"
+msgstr "Quality isn't great"
+
+#. Key:	2DE611DD4A19CD75191790AE953DE546
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",2DE611DD4A19CD75191790AE953DE546"
+msgid "unknown"
+msgstr "unknown"
+
+#. Key:	2EDDDFE74FBADDAD80399DB0C4B096DD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",2EDDDFE74FBADDAD80399DB0C4B096DD"
+msgid "The data you sent is really clear, Kel. This is awesome work. I wonder why Bao isn't that happy about it. I know Ken is though, LOL!\\\\Cheers,\\- Dr. Max"
+msgstr "The data you sent is really clear, Kel. This is awesome work. I wonder why Bao isn't that happy about it. I know Ken is though, LOL!\\\\Cheers,\\- Dr. Max"
+
+#. Key:	2F6C7B55462E8446878348A7A50B0953
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",2F6C7B55462E8446878348A7A50B0953"
+msgid "Scroll"
+msgstr "Scroll"
+
+#. Key:	30039C9544F8F6E2017F04A88D47A80F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",30039C9544F8F6E2017F04A88D47A80F"
+msgid "Probably not a problem."
+msgstr "Probably not a problem."
+
+#. Key:	302792AE4E7B9029476498996AF5800A
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",302792AE4E7B9029476498996AF5800A"
+msgid "Open"
+msgstr "Open"
+
+#. Key:	311035964535A54A644AEE91CD0AC97B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",311035964535A54A644AEE91CD0AC97B"
+msgid "this data sounds very interesting"
+msgstr "this data sounds very interesting"
+
+#. Key:	31A841FA407E8DE3662BEEB99E568D78
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",31A841FA407E8DE3662BEEB99E568D78"
+msgid "I can't believe you got such clear audio from those machines, dude! I am gonna be trying to release the resource papers as soon as possible.\\\\- Dr. Ken"
+msgstr "I can't believe you got such clear audio from those machines, dude! I am gonna be trying to release the resource papers as soon as possible.\\\\- Dr. Ken"
+
+#. Key:	31FA61CD46082825788469B3C3CCA382
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",31FA61CD46082825788469B3C3CCA382"
+msgid "sounds incroyable"
+msgstr "sounds incroyable"
+
+#. Key:	31FF3E3048B68252D7978EA99619C14B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",31FF3E3048B68252D7978EA99619C14B"
+msgid "Awesome work!"
+msgstr "Awesome work!"
+
+#. Key:	3298B3DE4613521539E3D6919070D104
+#. SourceLocation:	/Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",3298B3DE4613521539E3D6919070D104"
+msgid "tools"
+msgstr "tools"
+
+#. Key:	33D65142424843C2460C3B90F9D46663
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",33D65142424843C2460C3B90F9D46663"
+msgid "Hold"
+msgstr "Hold"
+
+#. Key:	33EFDAC642512A22891ACCACB0CD7FB0
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",33EFDAC642512A22891ACCACB0CD7FB0"
+msgid "Fuel"
+msgstr "Fuel"
+
+#. Key:	343EA1BF49C439532A64ACB6ACDA434B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Title
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Title
+msgctxt ",343EA1BF49C439532A64ACB6ACDA434B"
+msgid "hey"
+msgstr "hey"
+
+#. Key:	349B6F6A444EB6F29D19CFB0348C9733
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",349B6F6A444EB6F29D19CFB0348C9733"
+msgid "Audiable winds."
+msgstr "Audiable winds."
+
+#. Key:	34C024F34C1EA188115F3BA27833D170
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu.optionsmenu_C:WidgetTree.TextBlock.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu.optionsmenu_C:WidgetTree.TextBlock.Text
+msgctxt ",34C024F34C1EA188115F3BA27833D170"
+msgid "Apply"
+msgstr "Apply"
+
+#. Key:	34DA63104540CBE50A99AB97E30A3681
+#. SourceLocation:	/Game/main/enums/enum_kerfurDripType.enum_kerfurDripType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurDripType.enum_kerfurDripType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",34DA63104540CBE50A99AB97E30A3681"
+msgid "accessory"
+msgstr "accessory"
+
+#. Key:	351B1681447CA487309A1485C92CC959
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",351B1681447CA487309A1485C92CC959"
+msgid "The sounds of space is really fascinating. This is really useful for our research papers! My crew can not thank you enough for this, Kel.\\\\- Dr. Ken"
+msgstr "The sounds of space is really fascinating. This is really useful for our research papers! My crew can not thank you enough for this, Kel.\\\\- Dr. Ken"
+
+#. Key:	366FB20A44A02497671E5BB3B5B422AE
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",366FB20A44A02497671E5BB3B5B422AE"
+msgid "I am 100% sure I am hearing electromagnetic winds and frequencies. I am amazed, I really can't wait to talk to in person again.\\\\Hope to talk soon,\\- Dr. Max"
+msgstr "I am 100% sure I am hearing electromagnetic winds and frequencies. I am amazed, I really can't wait to talk to in person again.\\\\Hope to talk soon,\\- Dr. Max"
+
+#. Key:	39508FD44B53A0F27ADE528802FBB5D8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",39508FD44B53A0F27ADE528802FBB5D8"
+msgid "It's better than a Level 0, but still not great. We could probably refine this data ourself so don't worry too much, man.\\\\- Dr. Ken"
+msgstr "It's better than a Level 0, but still not great. We could probably refine this data ourself so don't worry too much, man.\\\\- Dr. Ken"
+
+#. Key:	395B3D544A74BFBB0909608ED665EB8B
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",395B3D544A74BFBB0909608ED665EB8B"
+msgid "Outside"
+msgstr "Outside"
+
+#. Key:	39E733894DDB6CC1BBD442B89F6A786B
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",39E733894DDB6CC1BBD442B89F6A786B"
+msgid "Drive slot"
+msgstr "Drive slot"
+
+#. Key:	3B0FD08A41C3B1917A7C279FB1EA0EDD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",3B0FD08A41C3B1917A7C279FB1EA0EDD"
+msgid "The old array gave this?"
+msgstr "The old array gave this?"
+
+#. Key:	3CE72C7F4ACF5CE403D27C8DCADB4270
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(37 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(37 - Value).DisplayNameMap
+msgctxt ",3CE72C7F4ACF5CE403D27C8DCADB4270"
+msgid "Polarization (left)"
+msgstr "Polarization (left)"
+
+#. Key:	3CF349954B3457E74455BBAC1A83BA79
+#. SourceLocation:	/Game/Mods/SampleBananaCat/_Content/main/datatables/_list_props._list_props.bananacat.displayName_5_D019100F4781F0FF5CF05E9443B39FB6
+#: /Game/Mods/SampleBananaCat/_Content/main/datatables/_list_props._list_props.bananacat.displayName_5_D019100F4781F0FF5CF05E9443B39FB6
+msgctxt ",3CF349954B3457E74455BBAC1A83BA79"
+msgid "Banana Cat"
+msgstr "Banana Cat"
+
+#. Key:	3DFB0489484D19B11518469C990A60CF
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(34 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(34 - Value).DisplayNameMap
+msgctxt ",3DFB0489484D19B11518469C990A60CF"
+msgid "Health"
+msgstr "Health"
+
+#. Key:	3E5246FE43A06ADBC22E698C104EE551
+#. SourceLocation:	/Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",3E5246FE43A06ADBC22E698C104EE551"
+msgid "loop"
+msgstr "loop"
+
+#. Key:	3EAA8BB34447EF0EDA48938DEAFE28AD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",3EAA8BB34447EF0EDA48938DEAFE28AD"
+msgid "can hear something in it. merci kel, i'll be trying to refine it myself if i can\\\\- ena"
+msgstr "can hear something in it. merci kel, i'll be trying to refine it myself if i can\\\\- ena"
+
+#. Key:	3F28D74C4C6E07C9D30AF3926D3D8B3F
+#. SourceLocation:	/Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",3F28D74C4C6E07C9D30AF3926D3D8B3F"
+msgid "Hard++"
+msgstr "Hard++"
+
+#. Key:	40156CA249C6523EB9A06EB598A2AF2A
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",40156CA249C6523EB9A06EB598A2AF2A"
+msgid "Dr_Ula"
+msgstr "Dr_Ula"
+
+#. Key:	410D6D034DC68B714427E0881890577F
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",410D6D034DC68B714427E0881890577F"
+msgid "Coffee"
+msgstr "Coffee"
+
+#. Key:	4123B74D47493A60F0E1FAA5A9F67F9C
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/modlist.modlist_C:WidgetTree.SpawnMenuTitle.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/modlist.modlist_C:WidgetTree.SpawnMenuTitle.Text
+msgctxt ",4123B74D47493A60F0E1FAA5A9F67F9C"
+msgid "VoidMod | Loaded Mods"
+msgstr "VoidMod | Loaded Mods"
+
+#. Key:	419B116D497E0A093935A2859A9F10AF
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",419B116D497E0A093935A2859A9F10AF"
+msgid "Close"
+msgstr "Close"
+
+#. Key:	41B12ABF429BCDB0638B729598E5BF09
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",41B12ABF429BCDB0638B729598E5BF09"
+msgid "Entrance"
+msgstr "Entrance"
+
+#. Key:	41B3F77041FF8E402CA8E88B5FBF1289
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",41B3F77041FF8E402CA8E88B5FBF1289"
+msgid "sounds awesome"
+msgstr "sounds awesome"
+
+#. Key:	422ACEA14D0F5615E9746BA6FB371529
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",422ACEA14D0F5615E9746BA6FB371529"
+msgid "planet"
+msgstr "planet"
+
+#. Key:	42740A2940CFCCA961BA38B95EDE6760
+#. SourceLocation:	/Game/Mods/SampleBananaCat/_Content/main/datatables/_list_props._list_props.bananacat.description_11_679FAC46408F2F9FA9CED583E2E7DEF2
+#: /Game/Mods/SampleBananaCat/_Content/main/datatables/_list_props._list_props.bananacat.description_11_679FAC46408F2F9FA9CED583E2E7DEF2
+msgctxt ",42740A2940CFCCA961BA38B95EDE6760"
+msgid "Mrrp! Mrrrow .w."
+msgstr "Mrrp! Mrrrow .w."
+
+#. Key:	44F62EB34E8EEE60723E2BB2D58B3734
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.VersionCredit.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.VersionCredit.Text
+msgctxt ",44F62EB34E8EEE60723E2BB2D58B3734"
+msgid "VoidMod v2.0.0 by Gato"
+msgstr "VoidMod v2.0.0 by Gato"
+
+#. Key:	470FAD534A82FD699AB75FB92E1E6AF7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",470FAD534A82FD699AB75FB92E1E6AF7"
+msgid "We can use this data, despite needing some refining. Bao should be happy about this. But you know how he is, He signed your P.H.D, Right?\\\\- Dr. Ken"
+msgstr "We can use this data, despite needing some refining. Bao should be happy about this. But you know how he is, He signed your P.H.D, Right?\\\\- Dr. Ken"
+
+#. Key:	47CA026F494D1D4DF8EFD68427667B66
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(28 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(28 - Value).DisplayNameMap
+msgctxt ",47CA026F494D1D4DF8EFD68427667B66"
+msgid "Toggle break"
+msgstr "Toggle break"
+
+#. Key:	486B18404A2C748D259F5C860172D5C2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",486B18404A2C748D259F5C860172D5C2"
+msgid "Something's off"
+msgstr "Something's off"
+
+#. Key:	4940C3A942F9C3BC42ABD0ACA242713D
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(27 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(27 - Value).DisplayNameMap
+msgctxt ",4940C3A942F9C3BC42ABD0ACA242713D"
+msgid "Delete data"
+msgstr "Delete data"
+
+#. Key:	49AEE7674FA3308E604C41A186897B74
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",49AEE7674FA3308E604C41A186897B74"
+msgid "This data is going down in the science books, I bet! I am surpised that those machines there can get data like this! Awesome work, Kel.\\\\Hope to speak soon,\\- Dr. Max"
+msgstr "This data is going down in the science books, I bet! I am surpised that those machines there can get data like this! Awesome work, Kel.\\\\Hope to speak soon,\\- Dr. Max"
+
+#. Key:	49FB4A8948B9B78356EFD090BAAF7E75
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",49FB4A8948B9B78356EFD090BAAF7E75"
+msgid "Dr_Noa"
+msgstr "Dr_Noa"
+
+#. Key:	4AA338234A7657E4F28A35B3D3DB923B
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",4AA338234A7657E4F28A35B3D3DB923B"
+msgid "Garage"
+msgstr "Garage"
+
+#. Key:	4AE1ACA4426753CC2BBD188BE3233794
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",4AE1ACA4426753CC2BBD188BE3233794"
+msgid "Hey Kel, I'm gonna make sure your name is part of any research papers we do since you found the signals. Awesome work!\\\\- Dr. Ken"
+msgstr "Hey Kel, I'm gonna make sure your name is part of any research papers we do since you found the signals. Awesome work!\\\\- Dr. Ken"
+
+#. Key:	4BD3E6084A486507A02C16AC3F4833C4
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.OptionValue.HintText
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.OptionValue.HintText
+msgctxt ",4BD3E6084A486507A02C16AC3F4833C4"
+msgid "Value"
+msgstr "Value"
+
+#. Key:	4DD6C2E4443F66F00BF2BCA069A5220B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Title
+#: /Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Title
+msgctxt ",4DD6C2E4443F66F00BF2BCA069A5220B"
+msgid "Title Left Blank"
+msgstr "Title Left Blank"
+
+#. Key:	4E1FDF5A4D627B04B1D3828DB6B20797
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",4E1FDF5A4D627B04B1D3828DB6B20797"
+msgid "user"
+msgstr "user"
+
+#. Key:	4F586AB3494BFD397D09AD87AF499C42
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",4F586AB3494BFD397D09AD87AF499C42"
+msgid "dwarf_planet"
+msgstr "dwarf_planet"
+
+#. Key:	4FEF23734555ADAB8403898CDE060C22
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",4FEF23734555ADAB8403898CDE060C22"
+msgid "below_average"
+msgstr "below_average"
+
+#. Key:	502741B548BFF021534B0E9125B837B5
+#. SourceLocation:	/Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",502741B548BFF021534B0E9125B837B5"
+msgid "Easy++"
+msgstr "Easy++"
+
+#. Key:	50F05EA7453F9B28E7FD1E9C01C043CE
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+msgctxt ",50F05EA7453F9B28E7FD1E9C01C043CE"
+msgid "Checking in!"
+msgstr "Checking in!"
+
+#. Key:	50FF830B41792DE93122C19D34EF14A4
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",50FF830B41792DE93122C19D34EF14A4"
+msgid "Toggle polarity filter"
+msgstr "Toggle polarity filter"
+
+#. Key:	5117940D431A298AFEF62B877B3EE7D9
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",5117940D431A298AFEF62B877B3EE7D9"
+msgid "Collect"
+msgstr "Collect"
+
+#. Key:	514D20164973476A87F6ADA7B62FFDD3
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",514D20164973476A87F6ADA7B62FFDD3"
+msgid "Cup"
+msgstr "Cup"
+
+#. Key:	51B48DFA4765635B96D9F88E1E105228
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",51B48DFA4765635B96D9F88E1E105228"
+msgid "better, can hear something"
+msgstr "better, can hear something"
+
+#. Key:	52AE6F984B6B5E384A0D8EB8450B0B5A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",52AE6F984B6B5E384A0D8EB8450B0B5A"
+msgid "The data is really shoddy, dude. Our machines can't find much of use on these. Try sending in some higher level data, if you can.\\\\- Dr. Ken"
+msgstr "The data is really shoddy, dude. Our machines can't find much of use on these. Try sending in some higher level data, if you can.\\\\- Dr. Ken"
+
+#. Key:	52B163EA47A1B252C0D45F926FA54435
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",52B163EA47A1B252C0D45F926FA54435"
+msgid "We can use this."
+msgstr "We can use this."
+
+#. Key:	53CBB02E4BF4BE7B1E37F190843F7A36
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",53CBB02E4BF4BE7B1E37F190843F7A36"
+msgid "What the fuck"
+msgstr "What the fuck"
+
+#. Key:	54E5CE7E469CAA6BB31D4195B4DA7B72
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",54E5CE7E469CAA6BB31D4195B4DA7B72"
+msgid "Strange dreams."
+msgstr "Strange dreams."
+
+#. Key:	55F28B3D4DA057E4304CD8A3F18DCF34
+#. SourceLocation:	/Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",55F28B3D4DA057E4304CD8A3F18DCF34"
+msgid "paused"
+msgstr "paused"
+
+#. Key:	564F509B4ECE8AD558D0DFB295AA5E0B
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",564F509B4ECE8AD558D0DFB295AA5E0B"
+msgid "Stairwell"
+msgstr "Stairwell"
+
+#. Key:	5679099D4C0EBA8ED0FE3C91B6978E89
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",5679099D4C0EBA8ED0FE3C91B6978E89"
+msgid "The audio is very good, but still too noisey to really make out anything. Don't worry, we can work with this though! Thanks a bunch, Kel! Stay safe.\\\\All the best,\\- Dr. Max"
+msgstr "The audio is very good, but still too noisey to really make out anything. Don't worry, we can work with this though! Thanks a bunch, Kel! Stay safe.\\\\All the best,\\- Dr. Max"
+
+#. Key:	574F8D6F438895303702988E468BE19C
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",574F8D6F438895303702988E468BE19C"
+msgid "Toggle"
+msgstr "Toggle"
+
+#. Key:	5777A93E464E202712D9F98FFEB33D7F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",5777A93E464E202712D9F98FFEB33D7F"
+msgid "this data sucks, can’t get anything from it. upgrade these when possible, kel\\\\- ena"
+msgstr "this data sucks, can’t get anything from it. upgrade these when possible, kel\\\\- ena"
+
+#. Key:	58B47E284C3F9B103B2A51AD72CE51C4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",58B47E284C3F9B103B2A51AD72CE51C4"
+msgid "Need better data"
+msgstr "Need better data"
+
+#. Key:	58D4811C4774E977391C0D99DCD7CD00
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",58D4811C4774E977391C0D99DCD7CD00"
+msgid "You know we can't really use these drives, right? We need the data refined more, so please try to do so when you can, Kel. Hope everything is going alright.\\\\Stay safe\\- Dr. Max"
+msgstr "You know we can't really use these drives, right? We need the data refined more, so please try to do so when you can, Kel. Hope everything is going alright.\\\\Stay safe\\- Dr. Max"
+
+#. Key:	5A0709594E32BF05740799BE04C9A267
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",5A0709594E32BF05740799BE04C9A267"
+msgid "Sit"
+msgstr "Sit"
+
+#. Key:	5A95705B4CF8CE8F2ABAAF97E95F6A34
+#. SourceLocation:	/Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",5A95705B4CF8CE8F2ABAAF97E95F6A34"
+msgid "error"
+msgstr "error"
+
+#. Key:	5B0B98934670DF9C13CEBA9DA6F8B9C3
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",5B0B98934670DF9C13CEBA9DA6F8B9C3"
+msgid "Still noisy"
+msgstr "Still noisy"
+
+#. Key:	5B1088A44FED7B88D2F7EDAF626C5FEC
+#. SourceLocation:	/Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",5B1088A44FED7B88D2F7EDAF626C5FEC"
+msgid "machines"
+msgstr "machines"
+
+#. Key:	5B3EA251403DED4E4151678A674691D9
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(26 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(26 - Value).DisplayNameMap
+msgctxt ",5B3EA251403DED4E4151678A674691D9"
+msgid "Speed"
+msgstr "Speed"
+
+#. Key:	5B68EF9647A30516A2D713BE0CD15A9B
+#. SourceLocation:	/Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",5B68EF9647A30516A2D713BE0CD15A9B"
+msgid "thought"
+msgstr "thought"
+
+#. Key:	5E3FF19E4FAD1B63EF89588F37ED3B0F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",5E3FF19E4FAD1B63EF89588F37ED3B0F"
+msgid "Do you hear anything in the audio, Kel? Maybe it's just me, I I been staying up completing tasks for Bao. Ena said to process this data if you still have a backup and I agree, hopefully it'll be nothing.\\\\With gratitude,\\- Dr. Max"
+msgstr "Do you hear anything in the audio, Kel? Maybe it's just me, I I been staying up completing tasks for Bao. Ena said to process this data if you still have a backup and I agree, hopefully it'll be nothing.\\\\With gratitude,\\- Dr. Max"
+
+#. Key:	5E40AE7F43C66B23545B19ADF3EBD222
+#. SourceLocation:	/Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",5E40AE7F43C66B23545B19ADF3EBD222"
+msgid "essentials"
+msgstr "essentials"
+
+#. Key:	604090844CD7A08857C63E9576E8746A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",604090844CD7A08857C63E9576E8746A"
+msgid "We'll need to really refine this data more. If you can send in a higher level signal that'll be great, man.\\\\- Dr. Ken"
+msgstr "We'll need to really refine this data more. If you can send in a higher level signal that'll be great, man.\\\\- Dr. Ken"
+
+#. Key:	60526F7C4A1B045FFAA6699DF5EF356D
+#. SourceLocation:	/Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",60526F7C4A1B045FFAA6699DF5EF356D"
+msgid "misc"
+msgstr "misc"
+
+#. Key:	614BDB8A4CB4E3E10081168EAECBF5E8
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/spawnlist_item.spawnlist_item_C:WidgetTree.ModDescription.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/spawnlist_item.spawnlist_item_C:WidgetTree.ModDescription.Text
+msgctxt ",614BDB8A4CB4E3E10081168EAECBF5E8"
+msgid "This is a really long name wuh ohh too long"
+msgstr "This is a really long name wuh ohh too long"
+
+#. Key:	6237856C493A1FB40BCA30AD787133E5
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",6237856C493A1FB40BCA30AD787133E5"
+msgid "Maybe it's nothing."
+msgstr "Maybe it's nothing."
+
+#. Key:	62915BF947B6302FFCCEA0BB68787855
+#. SourceLocation:	/Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",62915BF947B6302FFCCEA0BB68787855"
+msgid "error"
+msgstr "error"
+
+#. Key:	637705E640EB1C1BE7FE5780BEA0B701
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",637705E640EB1C1BE7FE5780BEA0B701"
+msgid "i gotta get a backup of this one.i hope we can listen to it together once you are done with the job. keep it up, kel\\\\- ena"
+msgstr "i gotta get a backup of this one.i hope we can listen to it together once you are done with the job. keep it up, kel\\\\- ena"
+
+#. Key:	647AE2324393AF59CFBA52920199C9C2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",647AE2324393AF59CFBA52920199C9C2"
+msgid "useful data"
+msgstr "useful data"
+
+#. Key:	665E55FE42B53283B55270AA6C2E0395
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",665E55FE42B53283B55270AA6C2E0395"
+msgid "Dr_Max"
+msgstr "Dr_Max"
+
+#. Key:	66D2EC4F445C087143C3AC9D18180203
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",66D2EC4F445C087143C3AC9D18180203"
+msgid "hey, send me a processed version of this so i can save it. this data sounds very intéressant. if you deleted it, i’m gonna beat your ass.\\\\- ena"
+msgstr "hey, send me a processed version of this so i can save it. this data sounds very intéressant. if you deleted it, i’m gonna beat your ass.\\\\- ena"
+
+#. Key:	67CA33894B3CEC08381D0F980890CCB4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",67CA33894B3CEC08381D0F980890CCB4"
+msgid "I can see why Bao wanted this place up and running so soon after Dr. Dee left. Still unsure why we couldn't send more people. I'm gonna be processing this data myself to see if we can get even better results.\\\\- Dr. Ken"
+msgstr "I can see why Bao wanted this place up and running so soon after Dr. Dee left. Still unsure why we couldn't send more people. I'm gonna be processing this data myself to see if we can get even better results.\\\\- Dr. Ken"
+
+#. Key:	67F316614E23D8B478412FB7E34200F4
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",67F316614E23D8B478412FB7E34200F4"
+msgid "high"
+msgstr "high"
+
+#. Key:	68D54ED849B602ED65B0068FD66A5A34
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",68D54ED849B602ED65B0068FD66A5A34"
+msgid "very_low"
+msgstr "very_low"
+
+#. Key:	699740B84C45EFF5DAB59FBC0D0BB941
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/branded_loading.branded_loading_C:WidgetTree.TextBlock.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/branded_loading.branded_loading_C:WidgetTree.TextBlock.Text
+msgctxt ",699740B84C45EFF5DAB59FBC0D0BB941"
+msgid "Started Running All Mods..."
+msgstr "Started Running All Mods..."
+
+#. Key:	6997E9454979F88963F0EDBBE214ADDE
+#. SourceLocation:	/Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+#: /Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+msgctxt ",6997E9454979F88963F0EDBBE214ADDE"
+msgid "[NO_TEXT_DATA_DETECTED]"
+msgstr "[NO_TEXT_DATA_DETECTED]"
+
+#. Key:	6A9F0406493B9D7CAD4A17BF09688DED
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Interfaces/VoidMod_SaveData.VoidMod_SaveData_C:LoadModGameData [Script Bytecode]
+#: /Game/Mods/VoidMod2/Assets/Interfaces/VoidMod_SaveData.VoidMod_SaveData_C:LoadModGameData [Script Bytecode]
+msgctxt ",6A9F0406493B9D7CAD4A17BF09688DED"
+msgid "INVALID MOD SAVE DATA!"
+msgstr "INVALID MOD SAVE DATA!"
+
+#. Key:	6B3193D6419DE9ACFC6AAF9EBE25DD31
+#. SourceLocation:	/Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",6B3193D6419DE9ACFC6AAF9EBE25DD31"
+msgid "stack"
+msgstr "stack"
+
+#. Key:	6BBE280047A5ABF038DA299E178C669E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",6BBE280047A5ABF038DA299E178C669E"
+msgid "seems worth keeping"
+msgstr "seems worth keeping"
+
+#. Key:	6BD990DB4616152E8D0E4B8C1D747F67
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",6BD990DB4616152E8D0E4B8C1D747F67"
+msgid "Good, but not great"
+msgstr "Good, but not great"
+
+#. Key:	6CA63FF94A3F255F33054E81F128DA5D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Title
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Title
+msgctxt ",6CA63FF94A3F255F33054E81F128DA5D"
+msgid "Server repair needed."
+msgstr "Server repair needed."
+
+#. Key:	6EBB7E65405E099A15F274B8FF3F9876
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",6EBB7E65405E099A15F274B8FF3F9876"
+msgid "unknown"
+msgstr "unknown"
+
+#. Key:	6F331E1C4A9F5B684E5C2DAA2AACA4C2
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/spawnlist_2.spawnlist_2_C:WidgetTree.SpawnMenuTitle.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/spawnlist_2.spawnlist_2_C:WidgetTree.SpawnMenuTitle.Text
+msgctxt ",6F331E1C4A9F5B684E5C2DAA2AACA4C2"
+msgid "Mod Spawn Menu"
+msgstr "Mod Spawn Menu"
+
+#. Key:	6F8FEAE847C0E5CCA7F6BBA2F479266B
+#. SourceLocation:	/Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",6F8FEAE847C0E5CCA7F6BBA2F479266B"
+msgid "decorations"
+msgstr "decorations"
+
+#. Key:	6FC2401E40F5EE9DD7A254936A671115
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",6FC2401E40F5EE9DD7A254936A671115"
+msgid "neutron_star"
+msgstr "neutron_star"
+
+#. Key:	703B8F7049D3DEB6AD16A6BB21326909
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Body
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Body
+msgctxt ",703B8F7049D3DEB6AD16A6BB21326909"
+msgid "Server repair is needed at Zulu.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nPlease. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. \r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\n- [ZULU]"
+msgstr "Server repair is needed at Zulu.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nPlease. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. \r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\nSend in a repair crew member or automatic repair unit.\r\n\r\n- [ZULU]"
+
+#. Key:	7081900D4D699909FA6C4FB716E3AA49
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",7081900D4D699909FA6C4FB716E3AA49"
+msgid "hope your satellites are okay"
+msgstr "hope your satellites are okay"
+
+#. Key:	721A2ABF4170081287E5D7A175ED6641
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",721A2ABF4170081287E5D7A175ED6641"
+msgid "Stop"
+msgstr "Stop"
+
+#. Key:	72C8CC1F45A94E29EF76B8B6516A3396
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",72C8CC1F45A94E29EF76B8B6516A3396"
+msgid "halloween"
+msgstr "halloween"
+
+#. Key:	72CD1850400D9FA7FE5A90AA23D0F20D
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(24 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(24 - Value).DisplayNameMap
+msgctxt ",72CD1850400D9FA7FE5A90AA23D0F20D"
+msgid "Alt + E - Use"
+msgstr "Alt + E - Use"
+
+#. Key:	72FEE0A949BAA4F8AB76DD9AD408C977
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",72FEE0A949BAA4F8AB76DD9AD408C977"
+msgid "none"
+msgstr "none"
+
+#. Key:	7446942A4D67AE6A5105DC9B2350364B
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(20 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(20 - Value).DisplayNameMap
+msgctxt ",7446942A4D67AE6A5105DC9B2350364B"
+msgid "Sleep"
+msgstr "Sleep"
+
+#. Key:	744B7BDF4DF3FDA8F45CAD9017D68B95
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",744B7BDF4DF3FDA8F45CAD9017D68B95"
+msgid "AdminRoom"
+msgstr "AdminRoom"
+
+#. Key:	765FB70C471CF19E137B97A84F01E930
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",765FB70C471CF19E137B97A84F01E930"
+msgid "high"
+msgstr "high"
+
+#. Key:	77F27BAE4FA52C93A2C5DD852F6874AF
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",77F27BAE4FA52C93A2C5DD852F6874AF"
+msgid "none"
+msgstr "none"
+
+#. Key:	787B2EAD4E48AB33A77CD9A76603E247
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",787B2EAD4E48AB33A77CD9A76603E247"
+msgid "UpstairsHall"
+msgstr "UpstairsHall"
+
+#. Key:	78C9E9474308C76096A3F9B4FD6C9FB5
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.ModSettingsText.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.ModSettingsText.Text
+msgctxt ",78C9E9474308C76096A3F9B4FD6C9FB5"
+msgid "Mod Settings"
+msgstr "Mod Settings"
+
+#. Key:	7A21B2A441521919D2AA808128AE6DD0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",7A21B2A441521919D2AA808128AE6DD0"
+msgid "doux jésus, kel. not sure what makes this frequency, but it does not sound good or friendly. i hope nothing like that is in the forest\\\\- ena"
+msgstr "doux jésus, kel. not sure what makes this frequency, but it does not sound good or friendly. i hope nothing like that is in the forest\\\\- ena"
+
+#. Key:	7A5517384139B4B6B197CFB361CB37A3
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",7A5517384139B4B6B197CFB361CB37A3"
+msgid "Create"
+msgstr "Create"
+
+#. Key:	7AA8132C450A7CC8BCA2D38144963E37
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",7AA8132C450A7CC8BCA2D38144963E37"
+msgid "great"
+msgstr "great"
+
+#. Key:	7B1E916B41817BF6A5B4928CAC263C4E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",7B1E916B41817BF6A5B4928CAC263C4E"
+msgid "We really need better data, Kel! Bao isn't really happy with these results. He can be really mean about it.\\\\Sincerely,\\- Dr. Max"
+msgstr "We really need better data, Kel! Bao isn't really happy with these results. He can be really mean about it.\\\\Sincerely,\\- Dr. Max"
+
+#. Key:	7E04287B4490C1DF2AE344BC4E9DEECF
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(19 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(19 - Value).DisplayNameMap
+msgctxt ",7E04287B4490C1DF2AE344BC4E9DEECF"
+msgid "Day"
+msgstr "Day"
+
+#. Key:	7EEA9DB24415294AD32990A13D590C5A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",7EEA9DB24415294AD32990A13D590C5A"
+msgid "Hearing something!"
+msgstr "Hearing something!"
+
+#. Key:	7F2502944A7C9763C439B6AA0A96A2F4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+msgctxt ",7F2502944A7C9763C439B6AA0A96A2F4"
+msgid "hey"
+msgstr "hey"
+
+#. Key:	7F28787348C14E3DACCBC2A02A418CC4
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",7F28787348C14E3DACCBC2A02A418CC4"
+msgid "story"
+msgstr "story"
+
+#. Key:	7F438FA74459540EE7B27195B47F098A
+#. SourceLocation:	/Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",7F438FA74459540EE7B27195B47F098A"
+msgid "info"
+msgstr "info"
+
+#. Key:	8026190E4B81048FD93344BA2D41FB1C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",8026190E4B81048FD93344BA2D41FB1C"
+msgid "Research papers out soon."
+msgstr "Research papers out soon."
+
+#. Key:	814CCA7247DE58383783AC9CE7D980D8
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(21 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(21 - Value).DisplayNameMap
+msgctxt ",814CCA7247DE58383783AC9CE7D980D8"
+msgid "Drive"
+msgstr "Drive"
+
+#. Key:	824E4F1447DF27DF068DD48DC4F4DFD2
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",824E4F1447DF27DF068DD48DC4F4DFD2"
+msgid "spooky"
+msgstr "spooky"
+
+#. Key:	83987CBB4E83189A4BB3EAA54D9C6E1E
+#. SourceLocation:	/Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",83987CBB4E83189A4BB3EAA54D9C6E1E"
+msgid "transformer"
+msgstr "transformer"
+
+#. Key:	84023EDC44A67D77A04A89AD3625F392
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Body
+#: /Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Body
+msgctxt ",84023EDC44A67D77A04A89AD3625F392"
+msgid "Body Left Blank"
+msgstr "Body Left Blank"
+
+#. Key:	847CAB724DA4CEBA345C75B04BCDD8D1
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+msgctxt ",847CAB724DA4CEBA345C75B04BCDD8D1"
+msgid "What's up, Dr. Kel. I know you can't respond, but Max asked me to send you an email to help you get to know me.\r\n\r\nI help with working with the machinery and categorying the signals you send in.\r\n\r\n- Dr. Ken"
+msgstr "What's up, Dr. Kel. I know you can't respond, but Max asked me to send you an email to help you get to know me.\r\n\r\nI help with working with the machinery and categorying the signals you send in.\r\n\r\n- Dr. Ken"
+
+#. Key:	848F6B06411F5515573059A7E5397FE0
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/spawnlist.spawnlist_C:WidgetTree.SpawnMenuTitle.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/spawnlist.spawnlist_C:WidgetTree.SpawnMenuTitle.Text
+msgctxt ",848F6B06411F5515573059A7E5397FE0"
+msgid "Mod Spawn Menu"
+msgstr "Mod Spawn Menu"
+
+#. Key:	85DB2E1041F676A29310C2959C77C181
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",85DB2E1041F676A29310C2959C77C181"
+msgid "This data could do with more processing. Please try to get better quality data when you can, Kel!\\\\Sincerely,\\- Dr. Max"
+msgstr "This data could do with more processing. Please try to get better quality data when you can, Kel!\\\\Sincerely,\\- Dr. Max"
+
+#. Key:	86BA75C641D44E44A0553BB4F4296568
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",86BA75C641D44E44A0553BB4F4296568"
+msgid "hearing something, at least"
+msgstr "hearing something, at least"
+
+#. Key:	899170FA4A8CFBAF3F85E5900E68F3E3
+#. SourceLocation:	/Game/Mods/VoidMod2/VoidModInstance.VoidModInstance_C:ExecuteUbergraph_VoidModInstance [Script Bytecode]
+#: /Game/Mods/VoidMod2/VoidModInstance.VoidModInstance_C:ExecuteUbergraph_VoidModInstance [Script Bytecode]
+msgctxt ",899170FA4A8CFBAF3F85E5900E68F3E3"
+msgid "Saved Mod Data..."
+msgstr "Saved Mod Data..."
+
+#. Key:	8B0AE6A44D1C67C23FBDE7A31EA5FA45
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/spawnlist_item.spawnlist_item_C:WidgetTree.ModName.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/spawnlist_item.spawnlist_item_C:WidgetTree.ModName.Text
+msgctxt ",8B0AE6A44D1C67C23FBDE7A31EA5FA45"
+msgid "This is a really long name"
+msgstr "This is a really long name"
+
+#. Key:	8BA619554FDA4E192C175298C880D647
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+msgctxt ",8BA619554FDA4E192C175298C880D647"
+msgid "hey, you better not be dead yet. i would be pissed at you if you died only a week in. i been analazing the signals you been sending in, saving any i think is worth keeping. hope you're eating well out there.\r\n\r\n- ena"
+msgstr "hey, you better not be dead yet. i would be pissed at you if you died only a week in. i been analazing the signals you been sending in, saving any i think is worth keeping. hope you're eating well out there.\r\n\r\n- ena"
+
+#. Key:	8BEF5AB942BB94C771A7E18F6C3D80A6
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",8BEF5AB942BB94C771A7E18F6C3D80A6"
+msgid "ElevatorRoom"
+msgstr "ElevatorRoom"
+
+#. Key:	8C219B5640E9A5EC3CCF68B5C83F088E
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",8C219B5640E9A5EC3CCF68B5C83F088E"
+msgid "Open console"
+msgstr "Open console"
+
+#. Key:	8C25663D46242C8794AD1B9967FF9EA8
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",8C25663D46242C8794AD1B9967FF9EA8"
+msgid "Bathroom"
+msgstr "Bathroom"
+
+#. Key:	8CB3EC0E493A29B525EE5A967E475843
+#. SourceLocation:	/Game/Mods/VoidMod2/ModActor.ModActor_C:InitializeSave [Script Bytecode]
+#: /Game/Mods/VoidMod2/ModActor.ModActor_C:InitializeSave [Script Bytecode]
+msgctxt ",8CB3EC0E493A29B525EE5A967E475843"
+msgid "VoidMod Welcomes You!"
+msgstr "VoidMod Welcomes You!"
+
+#. Key:	8D9DB3C6464DF1377E95D591309EA48A
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",8D9DB3C6464DF1377E95D591309EA48A"
+msgid "special"
+msgstr "special"
+
+#. Key:	8DAFF8CE41B67F6BE521668C35381BBC
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",8DAFF8CE41B67F6BE521668C35381BBC"
+msgid "One for the books!"
+msgstr "One for the books!"
+
+#. Key:	8E969A304B78DD2FC36651932D21223F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",8E969A304B78DD2FC36651932D21223F"
+msgid "c’est mieux. i  can hear some stuff in it. i am going to refine it myself and gather some useful data\\\\- ena"
+msgstr "c’est mieux. i  can hear some stuff in it. i am going to refine it myself and gather some useful data\\\\- ena"
+
+#. Key:	8EA706AE4361A36FC07AF092406965C0
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.optionsmenu_option_bool_C:WidgetTree.Description.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.optionsmenu_option_bool_C:WidgetTree.Description.Text
+msgctxt ",8EA706AE4361A36FC07AF092406965C0"
+msgid "Config Description Very Long Just To Test Resizing and stuff"
+msgstr "Config Description Very Long Just To Test Resizing and stuff"
+
+#. Key:	8F8EC4054A508BBC873775ADEDAAA35D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",8F8EC4054A508BBC873775ADEDAAA35D"
+msgid "should be able to gather something from this, i will refine it later. à +\\\\- ena"
+msgstr "should be able to gather something from this, i will refine it later. à +\\\\- ena"
+
+#. Key:	901583074637334BBACD3EA18843C05F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+msgctxt ",901583074637334BBACD3EA18843C05F"
+msgid "\"{name}\" have sent the #{version} email for an \"{quality}\" signal."
+msgstr "\"{name}\" have sent the #{version} email for an \"{quality}\" signal."
+
+#. Key:	9023E52D419821FD53441CAC774C806B
+#. SourceLocation:	/Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9023E52D419821FD53441CAC774C806B"
+msgid "fix"
+msgstr "fix"
+
+#. Key:	91FD78D1461B6CED7367BFAFBB222A5A
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.Type.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.Type.Text
+msgctxt ",91FD78D1461B6CED7367BFAFBB222A5A"
+msgid "Type: String"
+msgstr "Type: String"
+
+#. Key:	92F5843A4B04776D8292D1BF26193D96
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/spawnlist_2.spawnlist_2_C:WidgetTree.DeleteLabel.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/spawnlist_2.spawnlist_2_C:WidgetTree.DeleteLabel.Text
+msgctxt ",92F5843A4B04776D8292D1BF26193D96"
+msgid "Delete Object"
+msgstr "Delete Object"
+
+#. Key:	947FA7904337F1D089C535AEC97697CF
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",947FA7904337F1D089C535AEC97697CF"
+msgid "red_giant"
+msgstr "red_giant"
+
+#. Key:	9583349D4990B7AF0AC3FCB040B6E666
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9583349D4990B7AF0AC3FCB040B6E666"
+msgid "process it for moi, kel. i’m very curious, the data you sent in seems like it would have something good on it if refined more.\\\\- ena"
+msgstr "process it for moi, kel. i’m very curious, the data you sent in seems like it would have something good on it if refined more.\\\\- ena"
+
+#. Key:	95B281BF4900E48371B250A0C25D7040
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",95B281BF4900E48371B250A0C25D7040"
+msgid "BreakRoom"
+msgstr "BreakRoom"
+
+#. Key:	975D19E84A2A8068FCC30184962A8D9D
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",975D19E84A2A8068FCC30184962A8D9D"
+msgid "comet"
+msgstr "comet"
+
+#. Key:	97B805B24F7315135F159DB9C70AB11A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",97B805B24F7315135F159DB9C70AB11A"
+msgid "good job, kel"
+msgstr "good job, kel"
+
+#. Key:	97D7DA174CF07C96652EA4B982D8DAD2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",97D7DA174CF07C96652EA4B982D8DAD2"
+msgid "Excellent work, Kel!"
+msgstr "Excellent work, Kel!"
+
+#. Key:	984F3BAF4C2954F3494E3B9CB72CF0DE
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(35 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(35 - Value).DisplayNameMap
+msgctxt ",984F3BAF4C2954F3494E3B9CB72CF0DE"
+msgid "Volume"
+msgstr "Volume"
+
+#. Key:	985683084FB40CD575C118BA5662F4A0
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",985683084FB40CD575C118BA5662F4A0"
+msgid "solar"
+msgstr "solar"
+
+#. Key:	985EFD6044F53F6844EEA9B7C7DDEBD9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+msgctxt ",985EFD6044F53F6844EEA9B7C7DDEBD9"
+msgid "Welcome to the Crew!"
+msgstr "Welcome to the Crew!"
+
+#. Key:	98D3F3CE47D1E92802C3B49B41B66948
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",98D3F3CE47D1E92802C3B49B41B66948"
+msgid "Not what I was expecting!"
+msgstr "Not what I was expecting!"
+
+#. Key:	9A473A884EE6CCDB856F49835355CB7B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9A473A884EE6CCDB856F49835355CB7B"
+msgid "The data on this drive is really strange, Kel. Ena, Ken, and I are looking into refining the data. If you kept a backup copy of it, you should try to process it too.\\\\Sincerely,\\- Dr. Max"
+msgstr "The data on this drive is really strange, Kel. Ena, Ken, and I are looking into refining the data. If you kept a backup copy of it, you should try to process it too.\\\\Sincerely,\\- Dr. Max"
+
+#. Key:	9A9AFBB64CEA099FBD8A6F80B9CE9401
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9A9AFBB64CEA099FBD8A6F80B9CE9401"
+msgid "Ena said she'll take over looking over this data for me. I'm glad she is, but I'm still worried about you. I am going to try and relax but please stay safe.\\\\- Dr. Max"
+msgstr "Ena said she'll take over looking over this data for me. I'm glad she is, but I'm still worried about you. I am going to try and relax but please stay safe.\\\\- Dr. Max"
+
+#. Key:	9B194BB64AC3319EFC46ADBC64DA5296
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",9B194BB64AC3319EFC46ADBC64DA5296"
+msgid "Ena will take over on this"
+msgstr "Ena will take over on this"
+
+#. Key:	9C38206947E79CF63C91B593C10666A8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",9C38206947E79CF63C91B593C10666A8"
+msgid "Gaussian field theory!"
+msgstr "Gaussian field theory!"
+
+#. Key:	9CB48A4340746E5B844594A99D03D187
+#. SourceLocation:	/Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",9CB48A4340746E5B844594A99D03D187"
+msgid "idle"
+msgstr "idle"
+
+#. Key:	9CBA62354A675BB8991C5CBB64615727
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",9CBA62354A675BB8991C5CBB64615727"
+msgid "Fascinating!"
+msgstr "Fascinating!"
+
+#. Key:	9CCF1A8C412C91D55C8F15A07012E191
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",9CCF1A8C412C91D55C8F15A07012E191"
+msgid "Grab"
+msgstr "Grab"
+
+#. Key:	9D374F80429CC2AB093BDBA515BA5A88
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9D374F80429CC2AB093BDBA515BA5A88"
+msgid "I been having strange dreams after listening to the data you sent in, Kel. Only part I can remember is seeing an alien ship in the sky. I really need more coffee.\\\\- Dr. Ken"
+msgstr "I been having strange dreams after listening to the data you sent in, Kel. Only part I can remember is seeing an alien ship in the sky. I really need more coffee.\\\\- Dr. Ken"
+
+#. Key:	9E2927F842D3F69AC13C1B9122DD7DF2
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",9E2927F842D3F69AC13C1B9122DD7DF2"
+msgid "low"
+msgstr "low"
+
+#. Key:	A036CCEF4F9F742FA32D3B9B562AAE5E
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",A036CCEF4F9F742FA32D3B9B562AAE5E"
+msgid "white_dwarf"
+msgstr "white_dwarf"
+
+#. Key:	A0ABEC4D4CA24604AF05A29B9D881A62
+#. SourceLocation:	/Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",A0ABEC4D4CA24604AF05A29B9D881A62"
+msgid "processing"
+msgstr "processing"
+
+#. Key:	A0D2FD3D456110A1E0209C8C5CBB85D7
+#. SourceLocation:	/Game/main/enums/enum_kerfurDripType.enum_kerfurDripType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurDripType.enum_kerfurDripType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",A0D2FD3D456110A1E0209C8C5CBB85D7"
+msgid "cloth"
+msgstr "cloth"
+
+#. Key:	A0E10D1D4D060F654361A5A6BC19EF7F
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",A0E10D1D4D060F654361A5A6BC19EF7F"
+msgid "above_average"
+msgstr "above_average"
+
+#. Key:	A1D59EAC4D38A4F2F76B0D83CC0323D3
+#. SourceLocation:	/Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",A1D59EAC4D38A4F2F76B0D83CC0323D3"
+msgid "Easy"
+msgstr "Easy"
+
+#. Key:	A1F7656F480752BB255ED0A8D0C91746
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",A1F7656F480752BB255ED0A8D0C91746"
+msgid "it’s low quality and very noisy mais maybe i can catch something out of this\\\\- ena"
+msgstr "it’s low quality and very noisy mais maybe i can catch something out of this\\\\- ena"
+
+#. Key:	A314A6124DA5E14C01BBE59EA12FBCCB
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",A314A6124DA5E14C01BBE59EA12FBCCB"
+msgid "I'm surpised the old machines there can give results. Glad to know Dr. Dee didn't leave the place in bad conditions. We're gonna be refining these results as they sound promising.\\\\- Dr. Ken"
+msgstr "I'm surpised the old machines there can give results. Glad to know Dr. Dee didn't leave the place in bad conditions. We're gonna be refining these results as they sound promising.\\\\- Dr. Ken"
+
+#. Key:	A3A5858742B8BB2C03DFBF94FFF7D6AE
+#. SourceLocation:	/Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A3A5858742B8BB2C03DFBF94FFF7D6AE"
+msgid "ready"
+msgstr "ready"
+
+#. Key:	A3F691454992216F6922DCB098772564
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A3F691454992216F6922DCB098772564"
+msgid "average"
+msgstr "average"
+
+#. Key:	A505ABF54F76E98CF1DB9A97AA6FDCF3
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",A505ABF54F76E98CF1DB9A97AA6FDCF3"
+msgid "red_dwarf"
+msgstr "red_dwarf"
+
+#. Key:	A5CF1FB24676288F35DE13848FBFFEBB
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",A5CF1FB24676288F35DE13848FBFFEBB"
+msgid "sandbox"
+msgstr "sandbox"
+
+#. Key:	A6343386479844B461CA9B8ADB0F7DA7
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.LinksLabel.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/custom_menu.custom_menu_C:WidgetTree.LinksLabel.Text
+msgctxt ",A6343386479844B461CA9B8ADB0F7DA7"
+msgid "Links:"
+msgstr "Links:"
+
+#. Key:	A76E906741E2F47AFF2FADA7719C2EA2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",A76E906741E2F47AFF2FADA7719C2EA2"
+msgid "Strange data"
+msgstr "Strange data"
+
+#. Key:	A8336D77427B496170C50289F25853CE
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",A8336D77427B496170C50289F25853CE"
+msgid "unknown"
+msgstr "unknown"
+
+#. Key:	A95F3E4D4B9CAA6F1C784EB01463494F
+#. SourceLocation:	/Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A95F3E4D4B9CAA6F1C784EB01463494F"
+msgid "misc"
+msgstr "misc"
+
+#. Key:	AAE3EE0B4AC3F5772661A889327AFB19
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AAE3EE0B4AC3F5772661A889327AFB19"
+msgid "This is incredible, all the things we are learning from this data alone! You are doing great work, dude. I really don't know why Bao isn't happy with it.\\\\- Dr. Ken"
+msgstr "This is incredible, all the things we are learning from this data alone! You are doing great work, dude. I really don't know why Bao isn't happy with it.\\\\- Dr. Ken"
+
+#. Key:	AB014DBF4B0F1A9763DCBFB0D3F0CB75
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",AB014DBF4B0F1A9763DCBFB0D3F0CB75"
+msgid "Pat"
+msgstr "Pat"
+
+#. Key:	ABB5729E4EDAA7190B749A8DE41CD9BB
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu.optionsmenu_C:WidgetTree.TextBlock_179.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu.optionsmenu_C:WidgetTree.TextBlock_179.Text
+msgctxt ",ABB5729E4EDAA7190B749A8DE41CD9BB"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	ABED98AE45ECF73DB144168088B8914C
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",ABED98AE45ECF73DB144168088B8914C"
+msgid "Bedroom"
+msgstr "Bedroom"
+
+#. Key:	AC7DBD904D4EF89988C9C3A9A79D2312
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",AC7DBD904D4EF89988C9C3A9A79D2312"
+msgid "none"
+msgstr "none"
+
+#. Key:	AD739D94406C7911BAB6C2BAD90A99F6
+#. SourceLocation:	/Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",AD739D94406C7911BAB6C2BAD90A99F6"
+msgid "sequence"
+msgstr "sequence"
+
+#. Key:	AD89C9C547264A9A65972C844AFB7195
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AD89C9C547264A9A65972C844AFB7195"
+msgid "This data is still really noisy, but better than nothing.\\\\Stay safe,\\- Dr. Max"
+msgstr "This data is still really noisy, but better than nothing.\\\\Stay safe,\\- Dr. Max"
+
+#. Key:	AE1444A04C9BFD49DEAE79BD7561C394
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",AE1444A04C9BFD49DEAE79BD7561C394"
+msgid "asteroid"
+msgstr "asteroid"
+
+#. Key:	AE6F5F4346ABA736D9A24596523B001D
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_mod.optionsmenu_mod_C:WidgetTree.ModName.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_mod.optionsmenu_mod_C:WidgetTree.ModName.Text
+msgctxt ",AE6F5F4346ABA736D9A24596523B001D"
+msgid "Haha Funny Mod Name Lmfao So Good"
+msgstr "Haha Funny Mod Name Lmfao So Good"
+
+#. Key:	AE77A287404459FCDDAA4FAD1ECCB8F4
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",AE77A287404459FCDDAA4FAD1ECCB8F4"
+msgid "Equip"
+msgstr "Equip"
+
+#. Key:	AE89C69746ACE69744BBF8BB6A8E9C96
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",AE89C69746ACE69744BBF8BB6A8E9C96"
+msgid "Upload/extract data"
+msgstr "Upload/extract data"
+
+#. Key:	AEE346DA4B9DDE02D5AD9998ADA9CC35
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AEE346DA4B9DDE02D5AD9998ADA9CC35"
+msgid "Probably not a problem, probably. But I'm feeling like I am seeing something within the noise of the data you sent in. I think it's just because I hasn't been sleeping properly. You don't see it, right?\\\\- Dr. Ken"
+msgstr "Probably not a problem, probably. But I'm feeling like I am seeing something within the noise of the data you sent in. I think it's just because I hasn't been sleeping properly. You don't see it, right?\\\\- Dr. Ken"
+
+#. Key:	AFB42E034600A3D6B78FE0B7F483AF3A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AFB42E034600A3D6B78FE0B7F483AF3A"
+msgid "There are flux patterns like we've never seen. You can actually hear the shapes interacting, too! At least, we think that's what we're hearing. Keep up the good work, Kel.\\\\- Dr. Ken"
+msgstr "There are flux patterns like we've never seen. You can actually hear the shapes interacting, too! At least, we think that's what we're hearing. Keep up the good work, Kel.\\\\- Dr. Ken"
+
+#. Key:	AFE6BE384FA5DCEF0B8282895DA9A248
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",AFE6BE384FA5DCEF0B8282895DA9A248"
+msgid "spooky_clear"
+msgstr "spooky_clear"
+
+#. Key:	AFEA3C19433030543632359C3418BB85
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",AFEA3C19433030543632359C3418BB85"
+msgid "tutorial"
+msgstr "tutorial"
+
+#. Key:	B0BFABDB47B68B249DD696974C9F259A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",B0BFABDB47B68B249DD696974C9F259A"
+msgid "I don't know what to say. I really don't like this, Kel. I think Ena said she left a gun behind in the one of the satallites. I can't remember for the life of me which one, I think it started with an \"L\"\\\\- Dr. Max"
+msgstr "I don't know what to say. I really don't like this, Kel. I think Ena said she left a gun behind in the one of the satallites. I can't remember for the life of me which one, I think it started with an \"L\"\\\\- Dr. Max"
+
+#. Key:	B146EB964D062B64A9FED2B1A5537AB5
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",B146EB964D062B64A9FED2B1A5537AB5"
+msgid "normal_low"
+msgstr "normal_low"
+
+#. Key:	B15919C343AB04F634A0AC97C51EDCEA
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",B15919C343AB04F634A0AC97C51EDCEA"
+msgid "normal_raw"
+msgstr "normal_raw"
+
+#. Key:	B21D03B545B558A38542C7BBFF129E07
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",B21D03B545B558A38542C7BBFF129E07"
+msgid "UnknownRoom"
+msgstr "UnknownRoom"
+
+#. Key:	B2A835394B56A0AB7C18F099C9DB620C
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.OptionName.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.OptionName.Text
+msgctxt ",B2A835394B56A0AB7C18F099C9DB620C"
+msgid "Haha Funny Variable Name"
+msgstr "Haha Funny Variable Name"
+
+#. Key:	B34CBA71495CD28C8E69678EC5A8757E
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",B34CBA71495CD28C8E69678EC5A8757E"
+msgid "ambient"
+msgstr "ambient"
+
+#. Key:	B46013DE45897AECC2939AB35A0A3E86
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",B46013DE45897AECC2939AB35A0A3E86"
+msgid "good"
+msgstr "good"
+
+#. Key:	B56FB32E472122C30D1ADE8FCC6B3CDE
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+msgctxt ",B56FB32E472122C30D1ADE8FCC6B3CDE"
+msgid "[{1}]"
+msgstr "[{1}]"
+
+#. Key:	B5ABABC844E0CFFB924AF5931BC99A2B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",B5ABABC844E0CFFB924AF5931BC99A2B"
+msgid "Incredible find!"
+msgstr "Incredible find!"
+
+#. Key:	B5C1522046ECF41D34C889934BDDDE8C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",B5C1522046ECF41D34C889934BDDDE8C"
+msgid "Still noisy, Kel"
+msgstr "Still noisy, Kel"
+
+#. Key:	B72A7F2147830F11C4DC918565F823F1
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",B72A7F2147830F11C4DC918565F823F1"
+msgid "black_hole"
+msgstr "black_hole"
+
+#. Key:	B73C56404ED97AB3FC938B88E8F42043
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",B73C56404ED97AB3FC938B88E8F42043"
+msgid "I am going to state this first. I hasn't been sleeping the best. I been up all night doing tasks for Bao, so maybe it's because I'm tired. But I heard something truly dreadful behind the noise. Something otherworldy. I hope it's nothing.\\\\- Dr. Ken"
+msgstr "I am going to state this first. I hasn't been sleeping the best. I been up all night doing tasks for Bao, so maybe it's because I'm tired. But I heard something truly dreadful behind the noise. Something otherworldy. I hope it's nothing.\\\\- Dr. Ken"
+
+#. Key:	B7F169BD42C51E66233D52A1B17183B3
+#. SourceLocation:	/Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+#: /Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+msgctxt ",B7F169BD42C51E66233D52A1B17183B3"
+msgid "[NO_TEXT_DATA_DETECTED]"
+msgstr "[NO_TEXT_DATA_DETECTED]"
+
+#. Key:	B8A2540140C150D123EB469E26CAF2B6
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",B8A2540140C150D123EB469E26CAF2B6"
+msgid "Dr_Ena"
+msgstr "Dr_Ena"
+
+#. Key:	B926AE65449F61C782FA19B9D92BAB89
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",B926AE65449F61C782FA19B9D92BAB89"
+msgid "Use"
+msgstr "Use"
+
+#. Key:	BA40C9AB43490A309166A18268FE5C36
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",BA40C9AB43490A309166A18268FE5C36"
+msgid "normal"
+msgstr "normal"
+
+#. Key:	BB73CE6D46805ED4123A6A91B3F16D07
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",BB73CE6D46805ED4123A6A91B3F16D07"
+msgid "Play signal"
+msgstr "Play signal"
+
+#. Key:	BBF707594C2CBFBA7030A99EEEEF326F
+#. SourceLocation:	/Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",BBF707594C2CBFBA7030A99EEEEF326F"
+msgid "follow"
+msgstr "follow"
+
+#. Key:	BC9EAEF2494418B6CD35CF91020AFD7D
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(33 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(33 - Value).DisplayNameMap
+msgctxt ",BC9EAEF2494418B6CD35CF91020AFD7D"
+msgid "Power"
+msgstr "Power"
+
+#. Key:	BD436658452F820CB9A4BB82E1C76E35
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",BD436658452F820CB9A4BB82E1C76E35"
+msgid "sucks"
+msgstr "sucks"
+
+#. Key:	BDCCA41040F1CEA23763AE80C8C12A62
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",BDCCA41040F1CEA23763AE80C8C12A62"
+msgid "Open"
+msgstr "Open"
+
+#. Key:	BE0664294D2F601019FCFF9B8E567221
+#. SourceLocation:	/Game/main/enums/enum_freq.enum_freq.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_freq.enum_freq.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",BE0664294D2F601019FCFF9B8E567221"
+msgid "very_high"
+msgstr "very_high"
+
+#. Key:	BE08FFA34E034F58F36CE79467646148
+#. SourceLocation:	/Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/structs/enum_playlist.enum_playlist.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",BE08FFA34E034F58F36CE79467646148"
+msgid "shuffle"
+msgstr "shuffle"
+
+#. Key:	BE83C9D0429600BCF31A60880F44279E
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Mods/VoidMod2/Assets/Enums/BaseRoom.BaseRoom.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",BE83C9D0429600BCF31A60880F44279E"
+msgid "MainHall"
+msgstr "MainHall"
+
+#. Key:	C08C389645343F49EE4C698C013CADDD
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C08C389645343F49EE4C698C013CADDD"
+msgid "low"
+msgstr "low"
+
+#. Key:	C09B2BF445D962317E8AC89E4363B9B0
+#. SourceLocation:	/Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",C09B2BF445D962317E8AC89E4363B9B0"
+msgid "report"
+msgstr "report"
+
+#. Key:	C15EB7454B046550254F288861BAB7D5
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",C15EB7454B046550254F288861BAB7D5"
+msgid "Really good data!"
+msgstr "Really good data!"
+
+#. Key:	C1812A3A4B36DC3DEE371EB49BD051A1
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(29 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(29 - Value).DisplayNameMap
+msgctxt ",C1812A3A4B36DC3DEE371EB49BD051A1"
+msgid "Shift + E"
+msgstr "Shift + E"
+
+#. Key:	C2B1DF5944885A6343D057A0CCC9B317
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+msgctxt ",C2B1DF5944885A6343D057A0CCC9B317"
+msgid "Hey Kel, checking in! I hope you're doing alright. Bao really didn't like the idea, but I managed to convience him to let me send you an email! I'm currently taking a break from calibrating our machines and stocking our shelves to send you this. Really hope you're doing well!\r\n\r\nStay safe\r\n- Dr. Max"
+msgstr "Hey Kel, checking in! I hope you're doing alright. Bao really didn't like the idea, but I managed to convience him to let me send you an email! I'm currently taking a break from calibrating our machines and stocking our shelves to send you this. Really hope you're doing well!\r\n\r\nStay safe\r\n- Dr. Max"
+
+#. Key:	C33B7ED14AA196DE334F45BDDF152E7E
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",C33B7ED14AA196DE334F45BDDF152E7E"
+msgid "Auto"
+msgstr "Auto"
+
+#. Key:	C3E05BC447346FE7FB0BFEA273B435AD
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",C3E05BC447346FE7FB0BFEA273B435AD"
+msgid "Disc slot"
+msgstr "Disc slot"
+
+#. Key:	C4EA9E564CFF7ACDEECA2EBA10D89F0F
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",C4EA9E564CFF7ACDEECA2EBA10D89F0F"
+msgid "our_home"
+msgstr "our_home"
+
+#. Key:	C589AF04471AB544D563B7836DC36836
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",C589AF04471AB544D563B7836DC36836"
+msgid "can not wait for the year to be over so we can hang out again. i am gonna try to get a backup of this one and we can listen to it ensemble once you are done. max may join in too\\\\- ena"
+msgstr "can not wait for the year to be over so we can hang out again. i am gonna try to get a backup of this one and we can listen to it ensemble once you are done. max may join in too\\\\- ena"
+
+#. Key:	C6B059A4467C431CA93638BE0B05C819
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.optionsmenu_option_bool_C:WidgetTree.Type.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.optionsmenu_option_bool_C:WidgetTree.Type.Text
+msgctxt ",C6B059A4467C431CA93638BE0B05C819"
+msgid "Type: Bool"
+msgstr "Type: Bool"
+
+#. Key:	C6CEBDC94DF63EF11E4268BC5874C4D9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",C6CEBDC94DF63EF11E4268BC5874C4D9"
+msgid "We can hear things the winds and emission. We still need to refine the data but this is really good.\\\\- Dr. Ken"
+msgstr "We can hear things the winds and emission. We still need to refine the data but this is really good.\\\\- Dr. Ken"
+
+#. Key:	C6E1D45F447E7C938F8E76941A4AC587
+#. SourceLocation:	/Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_difficulty.enum_difficulty.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",C6E1D45F447E7C938F8E76941A4AC587"
+msgid "Normal"
+msgstr "Normal"
+
+#. Key:	C7861FE34D268FF5262512852AB82E9A
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",C7861FE34D268FF5262512852AB82E9A"
+msgid "blue_star"
+msgstr "blue_star"
+
+#. Key:	C99742084EE68B8F437748A827C0DD42
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",C99742084EE68B8F437748A827C0DD42"
+msgid "spooky shit, kel. whatever make that signal is not friendly. i hope we never encounter it. stay safe out there, kel\\\\- ena"
+msgstr "spooky shit, kel. whatever make that signal is not friendly. i hope we never encounter it. stay safe out there, kel\\\\- ena"
+
+#. Key:	C9CE16CB4C021B66C25384A672E98559
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C9CE16CB4C021B66C25384A672E98559"
+msgid "Prof_Lea"
+msgstr "Prof_Lea"
+
+#. Key:	CA6268AE49AF06745215369CD4767256
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",CA6268AE49AF06745215369CD4767256"
+msgid "Needs refining, still"
+msgstr "Needs refining, still"
+
+#. Key:	CD52FB144F6D98683958DC97CB31A493
+#. SourceLocation:	/Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_shopCats.enum_shopCats.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",CD52FB144F6D98683958DC97CB31A493"
+msgid "food"
+msgstr "food"
+
+#. Key:	CD7951434AE02FAF246B88A294E4484C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+msgctxt ",CD7951434AE02FAF246B88A294E4484C"
+msgid "Sending {user}'s #{number} email respond to signal type {type}."
+msgstr "Sending {user}'s #{number} email respond to signal type {type}."
+
+#. Key:	CDD3B98B40D5475606A83DA5F187013A
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(38 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(38 - Value).DisplayNameMap
+msgctxt ",CDD3B98B40D5475606A83DA5F187013A"
+msgid "Polarization (linear)"
+msgstr "Polarization (linear)"
+
+#. Key:	CE8CFC3C41AB9C6ECF333E82ACCDBEB6
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",CE8CFC3C41AB9C6ECF333E82ACCDBEB6"
+msgid "interest_clear"
+msgstr "interest_clear"
+
+#. Key:	CFFC490C4AA2DCF8EC28CAA7B4DE9E48
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",CFFC490C4AA2DCF8EC28CAA7B4DE9E48"
+msgid "shitty"
+msgstr "shitty"
+
+#. Key:	D4BE9FCE4D766D3BD7F7C6A9F187186D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",D4BE9FCE4D766D3BD7F7C6A9F187186D"
+msgid "i think i could catch something out of this but processing it could help. à +\\\\- ena"
+msgstr "i think i could catch something out of this but processing it could help. à +\\\\- ena"
+
+#. Key:	D4EE4676409994EBCD36C78E28F7BD46
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/branded_loading.branded_loading_C:WidgetTree.TextBlock_0.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/branded_loading.branded_loading_C:WidgetTree.TextBlock_0.Text
+msgctxt ",D4EE4676409994EBCD36C78E28F7BD46"
+msgid "Running VoidMod 2"
+msgstr "Running VoidMod 2"
+
+#. Key:	D56E5CC9433F57B563B8AFBD41FBD52A
+#. SourceLocation:	/Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+#: /Game/main/mainGamemode.mainGamemode_C:getSignalData [Script Bytecode]
+msgctxt ",D56E5CC9433F57B563B8AFBD41FBD52A"
+msgid "[NO_TEXT_DATA_DETECTED]"
+msgstr "[NO_TEXT_DATA_DETECTED]"
+
+#. Key:	D6B52B71477E8E74E460A399DDB3C035
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(22 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(22 - Value).DisplayNameMap
+msgctxt ",D6B52B71477E8E74E460A399DDB3C035"
+msgid "Dismount"
+msgstr "Dismount"
+
+#. Key:	D741F468469D0896694CF08199216BC3
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",D741F468469D0896694CF08199216BC3"
+msgid "Level 3, please?"
+msgstr "Level 3, please?"
+
+#. Key:	D7D8DE7444201C8B51A47FAD1459CE02
+#. SourceLocation:	/Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_interactionActions.enum_interactionActions.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",D7D8DE7444201C8B51A47FAD1459CE02"
+msgid "Take"
+msgstr "Take"
+
+#. Key:	D815A66A43DE60A770700A8659C48BE3
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",D815A66A43DE60A770700A8659C48BE3"
+msgid "Dr_Ler"
+msgstr "Dr_Ler"
+
+#. Key:	D9604702460FF7F5092C20B93961DE7E
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",D9604702460FF7F5092C20B93961DE7E"
+msgid "Toggle frequency filter"
+msgstr "Toggle frequency filter"
+
+#. Key:	DA161E7449B792C88A0922A2A27EB0F0
+#. SourceLocation:	/Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/main/enums/enum_kerfurCommand.enum_kerfurCommand.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",DA161E7449B792C88A0922A2A27EB0F0"
+msgid "patrol"
+msgstr "patrol"
+
+#. Key:	DA7DA64549103F1CD83C098E7AC60540
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",DA7DA64549103F1CD83C098E7AC60540"
+msgid "very_low"
+msgstr "very_low"
+
+#. Key:	DAAD41154335E8F3E98BC5876632A1D6
+#. SourceLocation:	/Game/Mods/VoidMod2/ModActor.ModActor_C:InitializeSave [Script Bytecode]
+#: /Game/Mods/VoidMod2/ModActor.ModActor_C:InitializeSave [Script Bytecode]
+msgctxt ",DAAD41154335E8F3E98BC5876632A1D6"
+msgid "If you receive this email, Congratulations! \r\n\r\nYou've successfully modified the game. \r\nEnjoy playing and have fun!\r\n\r\nYou are currently using VoidMod Iteration 2\r\n\r\n- Gato, VoidMod Developer"
+msgstr "If you receive this email, Congratulations! \r\n\r\nYou've successfully modified the game. \r\nEnjoy playing and have fun!\r\n\r\nYou are currently using VoidMod Iteration 2\r\n\r\n- Gato, VoidMod Developer"
+
+#. Key:	DC08BA4A4CE1E34D677BD6A10BE9F60C
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",DC08BA4A4CE1E34D677BD6A10BE9F60C"
+msgid "Reset"
+msgstr "Reset"
+
+#. Key:	DD3169D64069313F56444E8B7B358EF5
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",DD3169D64069313F56444E8B7B358EF5"
+msgid "I wasn't expecting data like this at all! I'm shocked that you were able to capture something like this. We gotta get drinks with Ena after you're done with the job! I think I could even get Ken to join with us, LOL!\\\\Cheers,\\- Dr. Max"
+msgstr "I wasn't expecting data like this at all! I'm shocked that you were able to capture something like this. We gotta get drinks with Ena after you're done with the job! I think I could even get Ken to join with us, LOL!\\\\Cheers,\\- Dr. Max"
+
+#. Key:	DE6511864B79FDA841F9558E9DBD843F
+#. SourceLocation:	/Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",DE6511864B79FDA841F9558E9DBD843F"
+msgid "signals"
+msgstr "signals"
+
+#. Key:	DE6F4F9D4DC708A4066BC4A4EAA56F85
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",DE6F4F9D4DC708A4066BC4A4EAA56F85"
+msgid "the data is shitty on this drive. bao, the old trouduc isn't very happy. process the drive so he shuts up\\\\- ena"
+msgstr "the data is shitty on this drive. bao, the old trouduc isn't very happy. process the drive so he shuts up\\\\- ena"
+
+#. Key:	DEB1A0564FCE1D01BC9C2DA0FB27672D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",DEB1A0564FCE1D01BC9C2DA0FB27672D"
+msgid "bravo kel. the data is très bien and clear. useful for our research. ken really seems pleased about it\\\\- ena"
+msgstr "bravo kel. the data is très bien and clear. useful for our research. ken really seems pleased about it\\\\- ena"
+
+#. Key:	DED89D37434AFD64E5E5B4AB5301547D
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",DED89D37434AFD64E5E5B4AB5301547D"
+msgid "Use"
+msgstr "Use"
+
+#. Key:	E13C1988453E16AD92841CBD2B59AA03
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",E13C1988453E16AD92841CBD2B59AA03"
+msgid "This is good, but it's still not really that high of quality. Still a bunch of noise in it. I'm sure we can refine this later. Thanks Kel!\\\\Thanks,\\- Dr. Max"
+msgstr "This is good, but it's still not really that high of quality. Still a bunch of noise in it. I'm sure we can refine this later. Thanks Kel!\\\\Thanks,\\- Dr. Max"
+
+#. Key:	E14FF4B9458BF5EA723F849C37C7DFB8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E14FF4B9458BF5EA723F849C37C7DFB8"
+msgid "noisy but maybe usable"
+msgstr "noisy but maybe usable"
+
+#. Key:	E1C75B0247AE5F8EAE973AA023F43626
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",E1C75B0247AE5F8EAE973AA023F43626"
+msgid "Set coordinates"
+msgstr "Set coordinates"
+
+#. Key:	E23AC9B6486C9D4DA7240FAAAB269FE7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E23AC9B6486C9D4DA7240FAAAB269FE7"
+msgid "process it for me, kel"
+msgstr "process it for me, kel"
+
+#. Key:	E291CB554184A0F03E7989B3B5259C1D
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(31 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(31 - Value).DisplayNameMap
+msgctxt ",E291CB554184A0F03E7989B3B5259C1D"
+msgid "Activate"
+msgstr "Activate"
+
+#. Key:	E2A5196C43EE6D4F52EA8383993A4EA8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E2A5196C43EE6D4F52EA8383993A4EA8"
+msgid "not of this earth"
+msgstr "not of this earth"
+
+#. Key:	E2E23D8C470DCE4A654DEFBF503AE563
+#. SourceLocation:	/Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/main/enums/enum_signalResponse.enum_signalResponse.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",E2E23D8C470DCE4A654DEFBF503AE563"
+msgid "normal_clear"
+msgstr "normal_clear"
+
+#. Key:	E2F975F1493919133B761D8000F5B96E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Title
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Title
+msgctxt ",E2F975F1493919133B761D8000F5B96E"
+msgid "Leave."
+msgstr "Leave."
+
+#. Key:	E32EEF92443454DF414217BAB815EB69
+#. SourceLocation:	/Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_emailChars.enum_emailChars.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",E32EEF92443454DF414217BAB815EB69"
+msgid "Dr_Bao"
+msgstr "Dr_Bao"
+
+#. Key:	E3D85D204303B9A4E55261814A3EE63C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",E3D85D204303B9A4E55261814A3EE63C"
+msgid "better send me a level 3 version, abruti. the data seems very interesting and i really wanna see it\\\\- ena"
+msgstr "better send me a level 3 version, abruti. the data seems very interesting and i really wanna see it\\\\- ena"
+
+#. Key:	E59562C34E2E88483EA78B989ED0ED4A
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",E59562C34E2E88483EA78B989ED0ED4A"
+msgid "star"
+msgstr "star"
+
+#. Key:	E655B45C437168E9FA7BBF9F1FD3F796
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",E655B45C437168E9FA7BBF9F1FD3F796"
+msgid "Save signal"
+msgstr "Save signal"
+
+#. Key:	E667DC29451FE08A8C483181484140A7
+#. SourceLocation:	/Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_notifyType.enum_notifyType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E667DC29451FE08A8C483181484140A7"
+msgid "warning"
+msgstr "warning"
+
+#. Key:	E69C0AF94F73AC4D29E8B48978C459E4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E69C0AF94F73AC4D29E8B48978C459E4"
+msgid "Flux patterns!"
+msgstr "Flux patterns!"
+
+#. Key:	E6F6E1094F43DDBCC87BB98C501A58FD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Title
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Title
+msgctxt ",E6F6E1094F43DDBCC87BB98C501A58FD"
+msgid "Find Me."
+msgstr "Find Me."
+
+#. Key:	E88ADB7740695EDB58B24A9F1C5F7F76
+#. SourceLocation:	/Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_objectType.enum_objectType.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",E88ADB7740695EDB58B24A9F1C5F7F76"
+msgid "object"
+msgstr "object"
+
+#. Key:	E9FDBB0F4B5B9049513CCBACFFD67AB0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Body
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Body
+msgctxt ",E9FDBB0F4B5B9049513CCBACFFD67AB0"
+msgid "[Broken Event]"
+msgstr "[Broken Event]"
+
+#. Key:	EA479EF44854ACCD127DE2BAC922DAB9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EA479EF44854ACCD127DE2BAC922DAB9"
+msgid "These drives are too noisy right now to really be useful, Kel. I hope your machines are all working well.\\\\Stay safe,\\- Dr. Max"
+msgstr "These drives are too noisy right now to really be useful, Kel. I hope your machines are all working well.\\\\Stay safe,\\- Dr. Max"
+
+#. Key:	EA5C8CA04835203571815CA8F4E00140
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EA5C8CA04835203571815CA8F4E00140"
+msgid "Yo, Bao is being kinda pissy about the low quality data you're sending in. I tried telling him that it's the machines but all he said was \"He can upgrade the processing machine.\" Not sure what he means.\\\\- Dr. Ken"
+msgstr "Yo, Bao is being kinda pissy about the low quality data you're sending in. I tried telling him that it's the machines but all he said was \"He can upgrade the processing machine.\" Not sure what he means.\\\\- Dr. Ken"
+
+#. Key:	EAE954E74F9BBC9B4C38BB99CD0D0C31
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",EAE954E74F9BBC9B4C38BB99CD0D0C31"
+msgid "scary"
+msgstr "scary"
+
+#. Key:	EB03DE624802278A05BE02981DFE362E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EB03DE624802278A05BE02981DFE362E"
+msgid "really hope your vaisselles are okay, if they’re fucked, we cannot send anyone to fix it for you. if they aren’t, then this data just sucks and you need to process it\\\\- ena"
+msgstr "really hope your vaisselles are okay, if they’re fucked, we cannot send anyone to fix it for you. if they aren’t, then this data just sucks and you need to process it\\\\- ena"
+
+#. Key:	EC7331BE43760B0389C4BC8480E4B9D8
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(25 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(25 - Value).DisplayNameMap
+msgctxt ",EC7331BE43760B0389C4BC8480E4B9D8"
+msgid "Start process"
+msgstr "Start process"
+
+#. Key:	ED04014B4AF74D50DD6FD0A8E11F1C98
+#. SourceLocation:	/Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",ED04014B4AF74D50DD6FD0A8E11F1C98"
+msgid "playing"
+msgstr "playing"
+
+#. Key:	ED711DD1451722B555494D94E2F4BD89
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",ED711DD1451722B555494D94E2F4BD89"
+msgid "Stop alarm"
+msgstr "Stop alarm"
+
+#. Key:	EE30EB5940D31E97EC1347B8BD105A19
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Body
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Body
+msgctxt ",EE30EB5940D31E97EC1347B8BD105A19"
+msgid "Get out while you still can, kid.\r\n\r\n- [UNKNOWN]"
+msgstr "Get out while you still can, kid.\r\n\r\n- [UNKNOWN]"
+
+#. Key:	EE88853045199921578C36B2E7C869E3
+#. SourceLocation:	/Game/main/enums/enum_quality.enum_quality.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/main/enums/enum_quality.enum_quality.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",EE88853045199921578C36B2E7C869E3"
+msgid "very_high"
+msgstr "very_high"
+
+#. Key:	EF1A3AE142BC21328CDB339A17967DCF
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EF1A3AE142BC21328CDB339A17967DCF"
+msgid "Hey Kel, these drives are really not good. We can barely make out any data on them. Please try to get a higher level drive when you can!\\\\All the best,\\- Dr. Max"
+msgstr "Hey Kel, these drives are really not good. We can barely make out any data on them. Please try to get a higher level drive when you can!\\\\All the best,\\- Dr. Max"
+
+#. Key:	F063DC3A4F34BA6276CFA699C8B99521
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F063DC3A4F34BA6276CFA699C8B99521"
+msgid "Too noisy"
+msgstr "Too noisy"
+
+#. Key:	F095292B44AD55775EFF078BE66338BB
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/modlist.modlist_C:WidgetTree.TextBlock_179.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/modlist.modlist_C:WidgetTree.TextBlock_179.Text
+msgctxt ",F095292B44AD55775EFF078BE66338BB"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	F100FF63480703CAC8991A85F267AC3E
+#. SourceLocation:	/Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_gamemode.enum_gamemode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F100FF63480703CAC8991A85F267AC3E"
+msgid "infinite"
+msgstr "infinite"
+
+#. Key:	F10A295548077249EDC50BB3290374FA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F10A295548077249EDC50BB3290374FA"
+msgid "Decent audio"
+msgstr "Decent audio"
+
+#. Key:	F117FC0D45FF44E4E677DCBFF12F1421
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",F117FC0D45FF44E4E677DCBFF12F1421"
+msgid "Kel, this explains so much about deep-space field theory. My team don't even know where to start. The papers we are going to write are going to be worth so much in our field of research!\\\\- Dr. Ken"
+msgstr "Kel, this explains so much about deep-space field theory. My team don't even know where to start. The papers we are going to write are going to be worth so much in our field of research!\\\\- Dr. Ken"
+
+#. Key:	F35740F8413874903A18E68793F07B2A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F35740F8413874903A18E68793F07B2A"
+msgid "usable"
+msgstr "usable"
+
+#. Key:	F36861D64E887B2976AFBEA4E3373AC0
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.Description.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.optionsmenu_option_C:WidgetTree.Description.Text
+msgctxt ",F36861D64E887B2976AFBEA4E3373AC0"
+msgid "Config Description Very Long Just To Test Resizing and stuff"
+msgstr "Config Description Very Long Just To Test Resizing and stuff"
+
+#. Key:	F3E8681241F46CAF33CFE3A06C573390
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(39 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(39 - Value).DisplayNameMap
+msgctxt ",F3E8681241F46CAF33CFE3A06C573390"
+msgid "Visualization mode"
+msgstr "Visualization mode"
+
+#. Key:	F4F806F84616A0570B1797847960C932
+#. SourceLocation:	/Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F4F806F84616A0570B1797847960C932"
+msgid "props"
+msgstr "props"
+
+#. Key:	F6955240458C36455E6301A6BBCD1ABD
+#. SourceLocation:	/Game/main/enums/enum_action.enum_action.DisplayNameMap(30 - Value).DisplayNameMap
+#: /Game/main/enums/enum_action.enum_action.DisplayNameMap(30 - Value).DisplayNameMap
+msgctxt ",F6955240458C36455E6301A6BBCD1ABD"
+msgid "Alt + E"
+msgstr "Alt + E"
+
+#. Key:	F6A67C3C414B8A26B89C4AB570A5BA74
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/modlist_item.modlist_item_C:WidgetTree.ModID.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/modlist_item.modlist_item_C:WidgetTree.ModID.Text
+msgctxt ",F6A67C3C414B8A26B89C4AB570A5BA74"
+msgid "This is a really long name, isnt it huh?"
+msgstr "This is a really long name, isnt it huh?"
+
+#. Key:	F7577FFE466D69E1BEB05EAC108435EC
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F7577FFE466D69E1BEB05EAC108435EC"
+msgid "Surprising results."
+msgstr "Surprising results."
+
+#. Key:	F7EEB2804B79EC9AEFF26EB40EA72B68
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+msgctxt ",F7EEB2804B79EC9AEFF26EB40EA72B68"
+msgid "<r>[EMAIL DEBUG ]</> - Sending all emails of <c>{user}</>..."
+msgstr "<r>[EMAIL DEBUG ]</> - Sending all emails of <c>{user}</>..."
+
+#. Key:	F8D63FDD44F52D0070892083B5DA037B
+#. SourceLocation:	/Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/main/enums/enum_spawnmenuCats.enum_spawnmenuCats.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",F8D63FDD44F52D0070892083B5DA037B"
+msgid "dynamic"
+msgstr "dynamic"
+
+#. Key:	F973351B48EAFF50B0872385B12A1867
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/optionsmenu.optionsmenu_C:WidgetTree.SpawnMenuTitle.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/optionsmenu.optionsmenu_C:WidgetTree.SpawnMenuTitle.Text
+msgctxt ",F973351B48EAFF50B0872385B12A1867"
+msgid "VoidMod | Mod Configuration"
+msgstr "VoidMod | Mod Configuration"
+
+#. Key:	FAB57CFB4FA5915B7F66DDAFEFCA8EA4
+#. SourceLocation:	/Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/main/enums/enum_tvStatus.enum_tvStatus.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",FAB57CFB4FA5915B7F66DDAFEFCA8EA4"
+msgid "none"
+msgstr "none"
+
+#. Key:	FBBCE43D483C90022B32ED9735444F70
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/spawnlist.spawnlist_C:WidgetTree.DeleteLabel.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/spawnlist.spawnlist_C:WidgetTree.DeleteLabel.Text
+msgctxt ",FBBCE43D483C90022B32ED9735444F70"
+msgid "Delete Object"
+msgstr "Delete Object"
+
+#. Key:	FBD964FA45AF4EB57138C08D15B20580
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",FBD964FA45AF4EB57138C08D15B20580"
+msgid "I think I can hear something in this, but I really can't make it out. Good job so far, Kel! Ken and his team will be trying to refine this data more.\\\\Hope to talk soon,\\- Dr. Max"
+msgstr "I think I can hear something in this, but I really can't make it out. Good job so far, Kel! Ken and his team will be trying to refine this data more.\\\\Hope to talk soon,\\- Dr. Max"
+
+#. Key:	FBF14556402357E615A02B8FE1738FA7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FBF14556402357E615A02B8FE1738FA7"
+msgid "Sleep"
+msgstr "Sleep"
+
+#. Key:	FD86AA674751E2394B4D818AA7C13370
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FD86AA674751E2394B4D818AA7C13370"
+msgid "More processing, please"
+msgstr "More processing, please"
+
+#. Key:	FDF3A7F5488C79F46499B7AAEBA0A85C
+#. SourceLocation:	/Game/Mods/VoidMod2/Assets/Widgets/modlist_item.modlist_item_C:WidgetTree.ModDescription.Text
+#: /Game/Mods/VoidMod2/Assets/Widgets/modlist_item.modlist_item_C:WidgetTree.ModDescription.Text
+msgctxt ",FDF3A7F5488C79F46499B7AAEBA0A85C"
+msgid "asdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsd"
+msgstr "asdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsdasdgabsdhjasdbhsd"
+
+#. Key:	FE44ABBE44A892E98D13FC9E6203A803
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FE44ABBE44A892E98D13FC9E6203A803"
+msgid "Not really useful"
+msgstr "Not really useful"
+
+#. Key:	FFE4C53E4489103E3B112AB7C074F56A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FFE4C53E4489103E3B112AB7C074F56A"
+msgid "gun in the basement"
+msgstr "gun in the basement"
+
+#. Key:	TextBlockDefaultValue
+#. SourceLocation:	/Game/umg/umg_console.umg_console_C:WidgetTree.tex_consoleName.Text
+#: /Game/umg/umg_console.umg_console_C:WidgetTree.tex_consoleName.Text
+msgctxt "UMG,TextBlockDefaultValue"
+msgid "Text Block"
+msgstr "Text Block"
+

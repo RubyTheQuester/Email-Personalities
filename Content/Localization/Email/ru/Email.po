@@ -1,0 +1,1214 @@
+# Copyright Epic Games, Inc. All Rights Reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2024-12-28 17:25\n"
+"PO-Revision-Date: 2024-12-29 03:13+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+
+#. Key:	01493B8945E7AAADD9C20DAFE10195AF
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",01493B8945E7AAADD9C20DAFE10195AF"
+msgid "Hey, you should probably process these signals to a higher level. We really can't make out any useful data.\\\\- Dr. Ken"
+msgstr "Эй, тебе, вероятно, следует обработать эти сигналы до более высокого уровня. Мы действительно не можем получить из них никаких полезных данных.\\\\- Доктор Кен"
+
+#. Key:	01E4085445714E4CB4EFD580553E2A0F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",01E4085445714E4CB4EFD580553E2A0F"
+msgid "very good and clear"
+msgstr "очень хорошо и чисто"
+
+#. Key:	02B8FA1A49D5167D980702B31594C32B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",02B8FA1A49D5167D980702B31594C32B"
+msgid " either toi ou moi gotta get a back up of this data, because i really wanna keep it. it sounds awesome, kel. can not wait until the year is up\\\\- ena"
+msgstr " либо ты, либо я должны сделать резервную копию этих данных, mon ami, потому что я просто не могу позволить этому пропасть. это звучит потрясающе, кел. жду с нетерпением конца года\\\\- эна"
+
+#. Key:	02D82D4F4AC6123A5F478C860293627C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",02D82D4F4AC6123A5F478C860293627C"
+msgid "bao shouldn't bitch about this, but he still does. good enough for us, though. thanks, kel\\\\- ena"
+msgstr "бао вообще не должен был сучиться по этому поводу, но, ooh-la-la, он всё равно это делает! нам-то всё равно, главное, что нам подходит. спасибо, кел\\\\- эна"
+
+#. Key:	04E89EBF4405E23911A1B79F08AB127D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",04E89EBF4405E23911A1B79F08AB127D"
+msgid "Quality is good."
+msgstr "Качество хорошее."
+
+#. Key:	056F3E1D4AC91823F381D3B4293B93D9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",056F3E1D4AC91823F381D3B4293B93D9"
+msgid "hey kel, i think i can hear something in this. try processing the data if you have a backup. could be useful\\\\- ena"
+msgstr "эй, кел, кажется, я что-то слышу в этих данных. попробуй обработать их, если у тебя есть резервная копия. ça peut быть полезным\\\\- эна"
+
+#. Key:	06187BB141E1A74B8B6826A8135EBA46
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:Email - Find Specific [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:Email - Find Specific
+#: [Script Bytecode]
+msgctxt ",06187BB141E1A74B8B6826A8135EBA46"
+msgid "Couldn't find datatable row \"{name}\"..."
+msgstr "Не удалось найти строку данных \"{name}\"..."
+
+#. Key:	07125D5941FC1412891043BEA8E5FABA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",07125D5941FC1412891043BEA8E5FABA"
+msgid "thanks kel"
+msgstr "merci кел"
+
+#. Key:	091270314DB39BE4A339D0B7A2CF3FC0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",091270314DB39BE4A339D0B7A2CF3FC0"
+msgid "Bao was right about that array. The results you can get from there is really good even within this state. I am getting my team to refine the data right now, Kel.\\\\- Dr. Ken"
+msgstr "Бао был прав насчёт этого массива. Результаты, которые можно получить оттуда, действительно впечатляют даже в таком состоянии. Я уже поручил своей команде заняться доработкой данных, Кел.\\\\- Доктор Кен."
+
+#. Key:	09C62041453D864F7DF02C94E639EA78
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",09C62041453D864F7DF02C94E639EA78"
+msgid "I can already tell our names will be in the history books with this one. We gotta get drinks with Ena after this!\\\\Cheers,\\- Dr. Max"
+msgstr "Уже чувствую, как наши имена войдут в историю благодаря этому! Надо будет выпить с Эной после всего этого!\\\\Бывай,\\- Доктор Макс"
+
+#. Key:	0B81E22B4D7DD20E30B8E6B3D327E5D0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Body
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Body
+msgctxt ",0B81E22B4D7DD20E30B8E6B3D327E5D0"
+msgid ""
+"hey, you better not be dead yet. i would be pissed at you if you died only a week in. i been analazing the signals you been sending in, saving any i think is worth keeping. hope you're eating well out there.\r\n"
+"\r\n"
+"- ena"
+msgstr ""
+"эй, mon cher, надеюсь, ты там ещё не сдох. я бы сильно рассердилась, если бы ты умудрился умереть всего через неделю. я анализировала сигналы, которые ты отправлял, и сохраняла те, которые, по моему мнению, стоило бы оставить. надеюсь, ты там нормально питаешься.\r\n"
+"\r\n"
+"- эна"
+
+#. Key:	0DBDBA3F4A2CE7963FFE9AAF87EDF5A8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",0DBDBA3F4A2CE7963FFE9AAF87EDF5A8"
+msgid "Quality isn't great, so try to send in better signals when you can, dude. I know the machines you're working with are old so don't stress out about it too much, okay?\\\\- Dr. Ken"
+msgstr "Качество не очень, так что постарайся передавать более чёткие сигналы, когда сможешь, чувак. Я знаю, что машины, с которыми ты работаешь, старые, так что не переживай слишком сильно, ладно?\\\\- Доктор Кен."
+
+#. Key:	0EBDA9C442B2667840C6C096551A8459
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",0EBDA9C442B2667840C6C096551A8459"
+msgid "The quality is good, but still need refining. We will try to refine it ourselves so don't worry about it, dude. If we find anything worthwhile I'll send you an email.\\\\- Dr. Ken"
+msgstr "Качество хорошее, но всё же требует доработки. Мы попробуем разобраться с этим сами, так что не переживай, чувак. Если найдём что-то стоящее, я отправлю тебе письмо.\\\\- Доктор Кен."
+
+#. Key:	15F70FD941E5122AB81E35A644089BAA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",15F70FD941E5122AB81E35A644089BAA"
+msgid "Bao doesn't like this."
+msgstr "Бао это не нравится."
+
+#. Key:	17F2A9B14646101292DE2DAD77706090
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",17F2A9B14646101292DE2DAD77706090"
+msgid "Do you hear something?"
+msgstr "Ты что-нибудь слышал?"
+
+#. Key:	19352D004239FA2513210095FF2B9BA0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",19352D004239FA2513210095FF2B9BA0"
+msgid "Is there something weird with the drives you sent? Something about the data feels off. I don't know if it's the audio or what, but I think we need to refine the drives a bit more.\\\\Sincerely,\\- Dr. Max"
+msgstr "С этими дисками что-то странное, как тебе кажется? Что-то с данными не так. Не знаю, то ли это звук, то ли ещё что, но, думаю, нам надо их немного доработать.\\\\Искренне,\\- Доктор Макс"
+
+#. Key:	199A2CC24488BDAEA1FF2D814B989A33
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",199A2CC24488BDAEA1FF2D814B989A33"
+msgid "Data is shoddy."
+msgstr "Данные ненадёжны."
+
+#. Key:	1AF0B1F34C2C1EEB35F1A9BE1DBAE3A7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",1AF0B1F34C2C1EEB35F1A9BE1DBAE3A7"
+msgid "Kel, the data you sent is so extremely clear! We can hear so much of the electromgnetic winds! This data is really good for our research.\\\\Thanks,\\- Dr. Max"
+msgstr "Кел, данные, что ты отправил, такие невероятно чёткие! Мы можем слышать так много электромагнитных ветров! Эти данные просто находка для нашего исследования.\\\\Благодарствую,\\- Доктор Макс"
+
+#. Key:	1B1C7F444CBFDF6195B92ABCCB0D7F21
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",1B1C7F444CBFDF6195B92ABCCB0D7F21"
+msgid "Hey, needs processing."
+msgstr "Эй, это нужно обработать."
+
+#. Key:	203E7FCA425C930E2E808C95C789EFE7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",203E7FCA425C930E2E808C95C789EFE7"
+msgid "Fantastic work!"
+msgstr "Фантастическая работа!"
+
+#. Key:	2183F32C474AD2807C050D9E04522F22
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_findme.event_email_findme_C:ExecuteUbergraph_event_email_findme [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_findme.event_email_findme_C:ExecuteUbergraph_event_email_findme
+#: [Script Bytecode]
+msgctxt ",2183F32C474AD2807C050D9E04522F22"
+msgid ""
+"{x2}\r\n"
+"\r\n"
+"- [{x}]"
+msgstr ""
+"{x2}\r\n"
+"\r\n"
+"- [{x}]"
+
+#. Key:	225842C248C78868DBDFFC89C6870D88
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",225842C248C78868DBDFFC89C6870D88"
+msgid "very useful and clear. i am sure ken is pleased about this. beau travail kel\\\\- ena"
+msgstr "полезно и понятно, mon ami? уверена, кен этим доволен. beau travail, кел.\\\\- эна"
+
+#. Key:	22716ED04508FE67C7C7DCA70C952D00
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",22716ED04508FE67C7C7DCA70C952D00"
+msgid "listen to it together"
+msgstr "послушаем вместе"
+
+#. Key:	25E6B33144FD03798FFF1B85D202870B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",25E6B33144FD03798FFF1B85D202870B"
+msgid "Great audio!"
+msgstr "Отличное аудио!"
+
+#. Key:	2686D9764DA274BC7A33BD857F851A78
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",2686D9764DA274BC7A33BD857F851A78"
+msgid "the gun i left for you should be in the garage. next to it should be some ammo. keep it near by, kel. i really don't like this signal and it reminded me that you may not have found the gun yet. don't die out there\\\\- ena"
+msgstr "пушка, которую я оставила для тебя, должна быть в гараже. рядом с ней должны быть патроны. держи её рядом, кел. мне очень не нравится этот сигнал, и он напомнил мне, что ты, peut-être, мог ещё не найти пушку. не умирай там\\\\- эна"
+
+#. Key:	28FC9EDD401C996825119281B771BAC6
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",28FC9EDD401C996825119281B771BAC6"
+msgid "Bao was right."
+msgstr "Бао был прав."
+
+#. Key:	2A0C631B410599C508A51BBEC05D7385
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",2A0C631B410599C508A51BBEC05D7385"
+msgid "low quality"
+msgstr "низкое качество"
+
+#. Key:	2C79A73C48449563D271B68589D38BEA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",2C79A73C48449563D271B68589D38BEA"
+msgid "I been up all night doing tasks so I don't know if i'm just seeing/hearing things, but I really don't like this data, Kel. Please stay safe out there.\\\\- Dr. Max"
+msgstr "Кел, я всю ночь выполнял задачи, так что не знаю, может, мне просто мерещится или слышится что-то... но эти данные мне совсем не нравятся. Пожалуйста, будь осторожен там, ладно?\\\\- Доктор Макс"
+
+#. Key:	2C82A35744FDCE378E9C4FA82EB037E0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",2C82A35744FDCE378E9C4FA82EB037E0"
+msgid "Quality isn't great"
+msgstr "Качество не крутое"
+
+#. Key:	2EDDDFE74FBADDAD80399DB0C4B096DD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",2EDDDFE74FBADDAD80399DB0C4B096DD"
+msgid "The data you sent is really clear, Kel. This is awesome work. I wonder why Bao isn't that happy about it. I know Ken is though, LOL!\\\\Cheers,\\- Dr. Max"
+msgstr "Кел, данные, которые ты отправил, действительно очень чёткие. Это потрясающая работа. Интересно, почему Бао этим не особо доволен? Хотя Кен, кажется, в восторге, лол!\\\\Бывай,\\- Доктор Макс"
+
+#. Key:	30039C9544F8F6E2017F04A88D47A80F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",30039C9544F8F6E2017F04A88D47A80F"
+msgid "Probably not a problem."
+msgstr "Вероятно, это не проблема."
+
+#. Key:	311035964535A54A644AEE91CD0AC97B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",311035964535A54A644AEE91CD0AC97B"
+msgid "this data sounds very interesting"
+msgstr "эти данные звучат очень интересно"
+
+#. Key:	31A841FA407E8DE3662BEEB99E568D78
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",31A841FA407E8DE3662BEEB99E568D78"
+msgid "I can't believe you got such clear audio from those machines, dude! I am gonna be trying to release the resource papers as soon as possible.\\\\- Dr. Ken"
+msgstr "Не могу поверить, что тебе удалось получить такой чёткий звук с этих машин, чувак! Я постараюсь выпустить документы с ресурсами как можно скорее.\\\\- Доктор Кен."
+
+#. Key:	31FA61CD46082825788469B3C3CCA382
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",31FA61CD46082825788469B3C3CCA382"
+msgid "sounds incroyable"
+msgstr "звучит непостижимо"
+
+#. Key:	31FF3E3048B68252D7978EA99619C14B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",31FF3E3048B68252D7978EA99619C14B"
+msgid "Awesome work!"
+msgstr "Отличная работа!"
+
+#. Key:	343EA1BF49C439532A64ACB6ACDA434B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Title
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.Default__event_email_week1_randomizer_C.Title
+msgctxt ",343EA1BF49C439532A64ACB6ACDA434B"
+msgid "hey"
+msgstr "хей"
+
+#. Key:	349B6F6A444EB6F29D19CFB0348C9733
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",349B6F6A444EB6F29D19CFB0348C9733"
+msgid "Audiable winds."
+msgstr "Слышимый ветер."
+
+#. Key:	351B1681447CA487309A1485C92CC959
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",351B1681447CA487309A1485C92CC959"
+msgid "The sounds of space is really fascinating. This is really useful for our research papers! My crew can not thank you enough for this, Kel.\\\\- Dr. Ken"
+msgstr "Звуки космоса — это действительно завораживающе. Это очень полезно для наших научных работ! Моя команда безмерно благодарна тебе за это, Кел.\\\\- Доктор Кен."
+
+#. Key:	366FB20A44A02497671E5BB3B5B422AE
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",366FB20A44A02497671E5BB3B5B422AE"
+msgid "I am 100% sure I am hearing electromagnetic winds and frequencies. I am amazed, I really can't wait to talk to in person again.\\\\Hope to talk soon,\\- Dr. Max"
+msgstr "Я на все 100% уверен, что слышу электромагнитные ветры и частоты. Это просто невероятно! Я так жду, когда смогу снова поговорить с тобой лично.\\\\Надеюсь, скоро поговорим,\\- Доктор Макс"
+
+#. Key:	39508FD44B53A0F27ADE528802FBB5D8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",39508FD44B53A0F27ADE528802FBB5D8"
+msgid "It's better than a Level 0, but still not great. We could probably refine this data ourself so don't worry too much, man.\\\\- Dr. Ken"
+msgstr "Это лучше, чем уровень 0, но всё равно не идеально. Мы, наверное, сможем доработать эти данные сами, так что не переживай слишком сильно, мужик.\\\\- Доктор Кен."
+
+#. Key:	3B0FD08A41C3B1917A7C279FB1EA0EDD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",3B0FD08A41C3B1917A7C279FB1EA0EDD"
+msgid "The old array gave this?"
+msgstr "Старый массив дал это?"
+
+#. Key:	3EAA8BB34447EF0EDA48938DEAFE28AD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",3EAA8BB34447EF0EDA48938DEAFE28AD"
+msgid "can hear something in it. merci kel, i'll be trying to refine it myself if i can\\\\- ena"
+msgstr "что-то слышу в этом. merci, кел, я постараюсь доработать это сама, если смогу\\\\- эна"
+
+#. Key:	41B3F77041FF8E402CA8E88B5FBF1289
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",41B3F77041FF8E402CA8E88B5FBF1289"
+msgid "sounds awesome"
+msgstr "звучит потрясающе"
+
+#. Key:	470FAD534A82FD699AB75FB92E1E6AF7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",470FAD534A82FD699AB75FB92E1E6AF7"
+msgid "We can use this data, despite needing some refining. Bao should be happy about this. But you know how he is, He signed your P.H.D, Right?\\\\- Dr. Ken"
+msgstr "Мы можем использовать эти данные, несмотря на то, что они требуют доработки. Бао должен быть доволен этим. Но ты же знаешь, как он себя ведёт. Он подписал твой кандидатский, верно?\\\\- Доктор Кен."
+
+#. Key:	486B18404A2C748D259F5C860172D5C2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",486B18404A2C748D259F5C860172D5C2"
+msgid "Something's off"
+msgstr "Что-то не так"
+
+#. Key:	49AEE7674FA3308E604C41A186897B74
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",49AEE7674FA3308E604C41A186897B74"
+msgid "This data is going down in the science books, I bet! I am surpised that those machines there can get data like this! Awesome work, Kel.\\\\Hope to speak soon,\\- Dr. Max"
+msgstr "Эти данные точно войдут в учебники по науке, вот увидишь! Я удивлён, что те машины вообще способны собрать такое! Отличная работа, Кел.\\\\Надеюсь, вскоре поговорим,\\- Доктор Макс"
+
+#. Key:	4AE1ACA4426753CC2BBD188BE3233794
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",4AE1ACA4426753CC2BBD188BE3233794"
+msgid "Hey Kel, I'm gonna make sure your name is part of any research papers we do since you found the signals. Awesome work!\\\\- Dr. Ken"
+msgstr "Эй, Кел, я позабочусь о том, чтобы твоё имя было в любом исследовательском докладе, который мы будем публиковать, ведь именно ты нашёл эти сигналы. Отличная работа!\\\\- Доктор Кен."
+
+#. Key:	4DD6C2E4443F66F00BF2BCA069A5220B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Title
+#: /Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Title
+msgctxt ",4DD6C2E4443F66F00BF2BCA069A5220B"
+msgid "Title Left Blank"
+msgstr "Название оставлено пустым"
+
+#. Key:	50F05EA7453F9B28E7FD1E9C01C043CE
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer
+#: [Script Bytecode]
+msgctxt ",50F05EA7453F9B28E7FD1E9C01C043CE"
+msgid "Checking in!"
+msgstr "Проверяем!"
+
+#. Key:	51B48DFA4765635B96D9F88E1E105228
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",51B48DFA4765635B96D9F88E1E105228"
+msgid "better, can hear something"
+msgstr "лучше, могу что-то услышать"
+
+#. Key:	52AE6F984B6B5E384A0D8EB8450B0B5A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",52AE6F984B6B5E384A0D8EB8450B0B5A"
+msgid "The data is really shoddy, dude. Our machines can't find much of use on these. Try sending in some higher level data, if you can.\\\\- Dr. Ken"
+msgstr "Данные действительно ненадёжные, чувак. Наши машины не могут найти много полезного в этом. Попробуй отправить данные более высокого уровня, если сможешь.\\\\- Доктор Кен."
+
+#. Key:	52B163EA47A1B252C0D45F926FA54435
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",52B163EA47A1B252C0D45F926FA54435"
+msgid "We can use this."
+msgstr "Мы можем это использовать."
+
+#. Key:	53CBB02E4BF4BE7B1E37F190843F7A36
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",53CBB02E4BF4BE7B1E37F190843F7A36"
+msgid "What the fuck"
+msgstr "Какого хуя"
+
+#. Key:	54E5CE7E469CAA6BB31D4195B4DA7B72
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",54E5CE7E469CAA6BB31D4195B4DA7B72"
+msgid "Strange dreams."
+msgstr "Странные сны."
+
+#. Key:	5679099D4C0EBA8ED0FE3C91B6978E89
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",5679099D4C0EBA8ED0FE3C91B6978E89"
+msgid "The audio is very good, but still too noisey to really make out anything. Don't worry, we can work with this though! Thanks a bunch, Kel! Stay safe.\\\\All the best,\\- Dr. Max"
+msgstr "Звук очень хороший, но всё ещё слишком шумный, чтобы чётко разобрать что-то. Но не переживай, мы с этим справимся! Огромное спасибо, Кел! Береги себя.\\\\С наилучшими пожеланиями,\\- Доктор Макс"
+
+#. Key:	5777A93E464E202712D9F98FFEB33D7F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",5777A93E464E202712D9F98FFEB33D7F"
+msgid "this data sucks, can’t get anything from it. upgrade these when possible, kel\\\\- ena"
+msgstr "эти данные ужасны, из них ничего не вытащить. mets à jour это, как только сможешь, кел.\\\\- эна"
+
+#. Key:	58B47E284C3F9B103B2A51AD72CE51C4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",58B47E284C3F9B103B2A51AD72CE51C4"
+msgid "Need better data"
+msgstr "Нужны данные получше"
+
+#. Key:	58D4811C4774E977391C0D99DCD7CD00
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",58D4811C4774E977391C0D99DCD7CD00"
+msgid "You know we can't really use these drives, right? We need the data refined more, so please try to do so when you can, Kel. Hope everything is going alright.\\\\Stay safe\\- Dr. Max"
+msgstr "Ты же понимаешь, что мы не можем использовать эти диски, верно? Нам нужно, чтобы данные были доработаны, так что постарайся сделать это, когда сможешь, Кел. Надеюсь, у тебя всё в порядке.\\\\Береги себя\\- Доктор Макс"
+
+#. Key:	5B0B98934670DF9C13CEBA9DA6F8B9C3
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",5B0B98934670DF9C13CEBA9DA6F8B9C3"
+msgid "Still noisy"
+msgstr "Просто шумно"
+
+#. Key:	5E3FF19E4FAD1B63EF89588F37ED3B0F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",5E3FF19E4FAD1B63EF89588F37ED3B0F"
+msgid "Do you hear anything in the audio, Kel? Maybe it's just me, I I been staying up completing tasks for Bao. Ena said to process this data if you still have a backup and I agree, hopefully it'll be nothing.\\\\With gratitude,\\- Dr. Max"
+msgstr "Ты что-нибудь слышишь в аудио, Кел? Может, это только мне так кажется, я ведь не спал всю ночь, выполняя задачи для Бао. Эна сказала обработать эти данные, если у тебя ещё есть резервная копия, и я согласен, надеюсь, что всё будет в порядке.\\\\С благодарностью,\\- Доктор Макс"
+
+#. Key:	604090844CD7A08857C63E9576E8746A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",604090844CD7A08857C63E9576E8746A"
+msgid "We'll need to really refine this data more. If you can send in a higher level signal that'll be great, man.\\\\- Dr. Ken"
+msgstr "Нам нужно будет серьёзно доработать эти данные. Если сможешь отправить сигнал более высокого уровня, будет здорово, мужик.\\\\- Доктор Кен."
+
+#. Key:	6237856C493A1FB40BCA30AD787133E5
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",6237856C493A1FB40BCA30AD787133E5"
+msgid "Maybe it's nothing."
+msgstr "Может, это ничего."
+
+#. Key:	637705E640EB1C1BE7FE5780BEA0B701
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",637705E640EB1C1BE7FE5780BEA0B701"
+msgid "i gotta get a backup of this one.i hope we can listen to it together once you are done with the job. keep it up, kel\\\\- ena"
+msgstr "мне нужно сделать резервную копию этого. надеюсь, мы сможем послушать это вместе, как только ты закончишь свою работу. continue comme ça, кел\\\\- эна"
+
+#. Key:	647AE2324393AF59CFBA52920199C9C2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",647AE2324393AF59CFBA52920199C9C2"
+msgid "useful data"
+msgstr "полезные данные"
+
+#. Key:	66D2EC4F445C087143C3AC9D18180203
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",66D2EC4F445C087143C3AC9D18180203"
+msgid "hey, send me a processed version of this so i can save it. this data sounds very intéressant. if you deleted it, i’m gonna beat your ass.\\\\- ena"
+msgstr "эй, отправь мне обработанную версию, чтобы я могла её сохранить. эти данные звучат очень intéressant. если ты удалил запись, я тебе надеру задницу.\\\\- эна"
+
+#. Key:	67CA33894B3CEC08381D0F980890CCB4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",67CA33894B3CEC08381D0F980890CCB4"
+msgid "I can see why Bao wanted this place up and running so soon after Dr. Dee left. Still unsure why we couldn't send more people. I'm gonna be processing this data myself to see if we can get even better results.\\\\- Dr. Ken"
+msgstr "Понимаю, почему Бао хотел, чтобы это место заработало так быстро после того, как доктор Ди ушёл. Всё ещё не понимаю, почему мы не могли отправить больше людей. Я сам займусь обработкой этих данных, чтобы увидеть, сможем ли мы получить ещё лучшие результаты.\\\\- Доктор Кен."
+
+#. Key:	6BBE280047A5ABF038DA299E178C669E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",6BBE280047A5ABF038DA299E178C669E"
+msgid "seems worth keeping"
+msgstr "кажется, стоит оставить"
+
+#. Key:	6BD990DB4616152E8D0E4B8C1D747F67
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",6BD990DB4616152E8D0E4B8C1D747F67"
+msgid "Good, but not great"
+msgstr "Хорошо, но не круто"
+
+#. Key:	6CA63FF94A3F255F33054E81F128DA5D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Title
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Title
+msgctxt ",6CA63FF94A3F255F33054E81F128DA5D"
+msgid "Server repair needed."
+msgstr "Нужен ремонт сервера."
+
+#. Key:	703B8F7049D3DEB6AD16A6BB21326909
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Body
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_zulu.Default__event_email_zulu_C.Body
+msgctxt ",703B8F7049D3DEB6AD16A6BB21326909"
+msgid ""
+"Server repair is needed at Zulu.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. Please. Get me out of here. I can't take it anymore. \r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"Send in a repair crew member or automatic repair unit.\r\n"
+"\r\n"
+"- [ZULU]"
+msgstr ""
+"Требуется ремонт сервера Зулу.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть. Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть. Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть. Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть. Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть. Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть. Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть. Пожалуйста. Вытащите меня отсюда. Я больше не могу это терпеть.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+"Отправьте члена ремонтной команды или автоматический ремонтный модуль.\r\n"
+"\r\n"
+" \n"
+"- [ЗУЛУ]"
+
+#. Key:	7081900D4D699909FA6C4FB716E3AA49
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",7081900D4D699909FA6C4FB716E3AA49"
+msgid "hope your satellites are okay"
+msgstr "надеюсь, с твоими радиотелескопами tout va bien"
+
+#. Key:	7A21B2A441521919D2AA808128AE6DD0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",7A21B2A441521919D2AA808128AE6DD0"
+msgid "doux jésus, kel. not sure what makes this frequency, but it does not sound good or friendly. i hope nothing like that is in the forest\\\\- ena"
+msgstr "doux jésus, кел. не знаю, что создаёт эту частоту, но она не звучит ни хорошо, ни дружелюбно. надеюсь, что ничего подобного нет в лесу\\\\- эна"
+
+#. Key:	7B1E916B41817BF6A5B4928CAC263C4E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",7B1E916B41817BF6A5B4928CAC263C4E"
+msgid "We really need better data, Kel! Bao isn't really happy with these results. He can be really mean about it.\\\\Sincerely,\\- Dr. Max"
+msgstr "Чёрт возьми, нам действительно нужны данные получше, Кел! Бао совсем не доволен этими результатами. Он может быть таким жестоким из-за этого…\\\\Искренне,\\- Доктор Макс"
+
+#. Key:	7EEA9DB24415294AD32990A13D590C5A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",7EEA9DB24415294AD32990A13D590C5A"
+msgid "Hearing something!"
+msgstr "Что-то слышу!"
+
+#. Key:	7F2502944A7C9763C439B6AA0A96A2F4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer
+#: [Script Bytecode]
+msgctxt ",7F2502944A7C9763C439B6AA0A96A2F4"
+msgid "hey"
+msgstr "хей"
+
+#. Key:	8026190E4B81048FD93344BA2D41FB1C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",8026190E4B81048FD93344BA2D41FB1C"
+msgid "Research papers out soon."
+msgstr "Скоро выйдут научные статьи."
+
+#. Key:	84023EDC44A67D77A04A89AD3625F392
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Body
+#: /Game/Mods/EmailPersonalities/emails/event_email_base.Default__event_email_base_C.Body
+msgctxt ",84023EDC44A67D77A04A89AD3625F392"
+msgid "Body Left Blank"
+msgstr "Сообщение оставлено пустым"
+
+#. Key:	847CAB724DA4CEBA345C75B04BCDD8D1
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer
+#: [Script Bytecode]
+msgctxt ",847CAB724DA4CEBA345C75B04BCDD8D1"
+msgid ""
+"What's up, Dr. Kel. I know you can't respond, but Max asked me to send you an email to help you get to know me.\r\n"
+"\r\n"
+"I help with working with the machinery and categorying the signals you send in.\r\n"
+"\r\n"
+"- Dr. Ken"
+msgstr ""
+"Чё как, доктор Кел. Знаю, что ты не можешь ответить, но Макс попросил меня отправить тебе письмо, чтобы ты мог познакомиться со мной.\r\n"
+"\r\n"
+"Я помогаю с работой с техникой и катологизацией сигналов, которые ты отправляешь.\r\n"
+"\r\n"
+"- Доктор Кен"
+
+#. Key:	85DB2E1041F676A29310C2959C77C181
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",85DB2E1041F676A29310C2959C77C181"
+msgid "This data could do with more processing. Please try to get better quality data when you can, Kel!\\\\Sincerely,\\- Dr. Max"
+msgstr "Эти данные нуждаются в дополнительной обработке. Пожалуйста, постарайся обработать их, когда сможешь, Кел!\\\\Искренне,\\- Доктор Макс"
+
+#. Key:	86BA75C641D44E44A0553BB4F4296568
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",86BA75C641D44E44A0553BB4F4296568"
+msgid "hearing something, at least"
+msgstr "хоть что-то услышать"
+
+#. Key:	8BA619554FDA4E192C175298C880D647
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer
+#: [Script Bytecode]
+msgctxt ",8BA619554FDA4E192C175298C880D647"
+msgid ""
+"hey, you better not be dead yet. i would be pissed at you if you died only a week in. i been analazing the signals you been sending in, saving any i think is worth keeping. hope you're eating well out there.\r\n"
+"\r\n"
+"- ena"
+msgstr ""
+"эй, mon cher, надеюсь, ты там ещё не сдох. я бы сильно рассердилась, если бы ты умудрился умереть всего через неделю. я анализировала сигналы, которые ты отправлял, и сохраняла те, которые, по моему мнению, стоило бы оставить. надеюсь, ты там нормально питаешься.\r\n"
+"\r\n"
+"- эна"
+
+#. Key:	8DAFF8CE41B67F6BE521668C35381BBC
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",8DAFF8CE41B67F6BE521668C35381BBC"
+msgid "One for the books!"
+msgstr "Один для книг!"
+
+#. Key:	8E969A304B78DD2FC36651932D21223F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",8E969A304B78DD2FC36651932D21223F"
+msgid "c’est mieux. i  can hear some stuff in it. i am going to refine it myself and gather some useful data\\\\- ena"
+msgstr "c’est mieux. я слышу что-то в этом. я сама доработаю это и соберу полезные данные\\\\- эна"
+
+#. Key:	8F8EC4054A508BBC873775ADEDAAA35D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",8F8EC4054A508BBC873775ADEDAAA35D"
+msgid "should be able to gather something from this, i will refine it later. à +\\\\- ena"
+msgstr "я должна смочь что-то из этого собрать, я доработаю это позже. à+\\\\- эна"
+
+#. Key:	901583074637334BBACD3EA18843C05F
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor
+#: [Script Bytecode]
+msgctxt ",901583074637334BBACD3EA18843C05F"
+msgid "\"{name}\" have sent the #{version} email for an \"{quality}\" signal."
+msgstr "\"{name}\" отправил #{version} эмейл для  \"{quality}\" сигнала."
+
+#. Key:	9583349D4990B7AF0AC3FCB040B6E666
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9583349D4990B7AF0AC3FCB040B6E666"
+msgid "process it for moi, kel. i’m very curious, the data you sent in seems like it would have something good on it if refined more.\\\\- ena"
+msgstr "обработай это pour moi, кел. мне очень интересно, данные, которые ты прислал, похоже, могут содержать что-то хорошее, если их доработать.\\\\- эна"
+
+#. Key:	97B805B24F7315135F159DB9C70AB11A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",97B805B24F7315135F159DB9C70AB11A"
+msgid "good job, kel"
+msgstr "хорошая работа, кел"
+
+#. Key:	97D7DA174CF07C96652EA4B982D8DAD2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",97D7DA174CF07C96652EA4B982D8DAD2"
+msgid "Excellent work, Kel!"
+msgstr "Исключительная работа, Кел!"
+
+#. Key:	985EFD6044F53F6844EEA9B7C7DDEBD9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer
+#: [Script Bytecode]
+msgctxt ",985EFD6044F53F6844EEA9B7C7DDEBD9"
+msgid "Welcome to the Crew!"
+msgstr "Добро пожаловать в команду!"
+
+#. Key:	98D3F3CE47D1E92802C3B49B41B66948
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",98D3F3CE47D1E92802C3B49B41B66948"
+msgid "Not what I was expecting!"
+msgstr "Не то, что я ожидал!"
+
+#. Key:	9A473A884EE6CCDB856F49835355CB7B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9A473A884EE6CCDB856F49835355CB7B"
+msgid "The data on this drive is really strange, Kel. Ena, Ken, and I are looking into refining the data. If you kept a backup copy of it, you should try to process it too.\\\\Sincerely,\\- Dr. Max"
+msgstr "Данные на этом диске действительно странные, Кел. Эна, Кен и я пытаемся обработать  данные. Если вы сделали бэкап этого диска, вам следует обработать его.\\\\Искренне,\\- Доктор Макс"
+
+#. Key:	9A9AFBB64CEA099FBD8A6F80B9CE9401
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9A9AFBB64CEA099FBD8A6F80B9CE9401"
+msgid "Ena said she'll take over looking over this data for me. I'm glad she is, but I'm still worried about you. I am going to try and relax but please stay safe.\\\\- Dr. Max"
+msgstr "Эна сказала, что возьмёт на себя проверку этих данных вместо меня. Я рад, что она это сделает, но я всё равно переживаю за тебя. Я попробую расслабиться, но, пожалуйста, будь осторожен.\\\\- Доктор Макс"
+
+#. Key:	9B194BB64AC3319EFC46ADBC64DA5296
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",9B194BB64AC3319EFC46ADBC64DA5296"
+msgid "Ena will take over on this"
+msgstr "Эна займётся этим"
+
+#. Key:	9C38206947E79CF63C91B593C10666A8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",9C38206947E79CF63C91B593C10666A8"
+msgid "Gaussian field theory!"
+msgstr "Гауссова теория поля!"
+
+#. Key:	9CBA62354A675BB8991C5CBB64615727
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",9CBA62354A675BB8991C5CBB64615727"
+msgid "Fascinating!"
+msgstr "Захватывающе!"
+
+#. Key:	9D374F80429CC2AB093BDBA515BA5A88
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",9D374F80429CC2AB093BDBA515BA5A88"
+msgid "I been having strange dreams after listening to the data you sent in, Kel. Only part I can remember is seeing an alien ship in the sky. I really need more coffee.\\\\- Dr. Ken"
+msgstr "Мне стали сниться странные сны после того, как я послушал данные, которые ты прислал, Кел. Единственное, что я помню — это космический корабль пришельцев в небе. Мне точно нужно больше кофе.\\\\- Доктор Кен."
+
+#. Key:	A1F7656F480752BB255ED0A8D0C91746
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",A1F7656F480752BB255ED0A8D0C91746"
+msgid "it’s low quality and very noisy mais maybe i can catch something out of this\\\\- ena"
+msgstr "качество низкое и очень шумно, mais, может быть, я смогу выудить что-то из этого\\\\- эна"
+
+#. Key:	A314A6124DA5E14C01BBE59EA12FBCCB
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",A314A6124DA5E14C01BBE59EA12FBCCB"
+msgid "I'm surpised the old machines there can give results. Glad to know Dr. Dee didn't leave the place in bad conditions. We're gonna be refining these results as they sound promising.\\\\- Dr. Ken"
+msgstr "Удивлён, что старые машины там могут давать результаты. Рад, что доктор Ди не оставил это место в плохом состоянии. Мы будем дорабатывать эти результаты, так как они звучат многообещающе.\\\\- Доктор Кен."
+
+#. Key:	A76E906741E2F47AFF2FADA7719C2EA2
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",A76E906741E2F47AFF2FADA7719C2EA2"
+msgid "Strange data"
+msgstr "Странные данные"
+
+#. Key:	AAE3EE0B4AC3F5772661A889327AFB19
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AAE3EE0B4AC3F5772661A889327AFB19"
+msgid "This is incredible, all the things we are learning from this data alone! You are doing great work, dude. I really don't know why Bao isn't happy with it.\\\\- Dr. Ken"
+msgstr "Это невероятно, сколько всего мы узнаём только из этих данных! Ты проделываешь отличную работу, чувак. Я действительно не понимаю, почему Бао не доволен этим.\\\\- Доктор Кен."
+
+#. Key:	AD89C9C547264A9A65972C844AFB7195
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AD89C9C547264A9A65972C844AFB7195"
+msgid "This data is still really noisy, but better than nothing.\\\\Stay safe,\\- Dr. Max"
+msgstr "Эти данные —  просто шум, но это всё ещё лучше, чем ничего.\\\\Береги себя,\\- Доктор Макс"
+
+#. Key:	AEE346DA4B9DDE02D5AD9998ADA9CC35
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AEE346DA4B9DDE02D5AD9998ADA9CC35"
+msgid "Probably not a problem, probably. But I'm feeling like I am seeing something within the noise of the data you sent in. I think it's just because I hasn't been sleeping properly. You don't see it, right?\\\\- Dr. Ken"
+msgstr "Наверное, это не проблема, наверное. Но мне кажется, что я начинаю что-то видеть в шуме данных, которые ты прислал. Думаю, это просто из-за того, что я не выспался. Ты этого не видишь, правда?\\\\- Доктор Кен."
+
+#. Key:	AFB42E034600A3D6B78FE0B7F483AF3A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",AFB42E034600A3D6B78FE0B7F483AF3A"
+msgid "There are flux patterns like we've never seen. You can actually hear the shapes interacting, too! At least, we think that's what we're hearing. Keep up the good work, Kel.\\\\- Dr. Ken"
+msgstr "Здесь есть флуктуационные паттерны, которые мы никогда раньше не видели. Мы даже слышим, как формы взаимодействуют друг с другом! По крайней мере, мы думаем, что это именно то, что мы слышим. Продолжай в том же духе, Кел.\\\\- Доктор Кен."
+
+#. Key:	B0BFABDB47B68B249DD696974C9F259A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",B0BFABDB47B68B249DD696974C9F259A"
+msgid "I don't know what to say. I really don't like this, Kel. I think Ena said she left a gun behind in the one of the satallites. I can't remember for the life of me which one, I think it started with an \"L\"\\\\- Dr. Max"
+msgstr "Я не знаю, что сказать. Мне это совсем не нравится, Кел. Кажется, Эна говорила, что оставила оружие на одном из радиотелескопов. Я никак не могу вспомнить, на каком именно... Кажется, его название начиналось на \"L\"\\\\- Доктор Макс"
+
+#. Key:	B56FB32E472122C30D1ADE8FCC6B3CDE
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor
+#: [Script Bytecode]
+msgctxt ",B56FB32E472122C30D1ADE8FCC6B3CDE"
+msgid "[{1}]"
+msgstr "[{1}]"
+
+#. Key:	B5ABABC844E0CFFB924AF5931BC99A2B
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",B5ABABC844E0CFFB924AF5931BC99A2B"
+msgid "Incredible find!"
+msgstr "Невероятная находка!"
+
+#. Key:	B5C1522046ECF41D34C889934BDDDE8C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",B5C1522046ECF41D34C889934BDDDE8C"
+msgid "Still noisy, Kel"
+msgstr "Все ещё шумно, Кел."
+
+#. Key:	B73C56404ED97AB3FC938B88E8F42043
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",B73C56404ED97AB3FC938B88E8F42043"
+msgid "I am going to state this first. I hasn't been sleeping the best. I been up all night doing tasks for Bao, so maybe it's because I'm tired. But I heard something truly dreadful behind the noise. Something otherworldy. I hope it's nothing.\\\\- Dr. Ken"
+msgstr "Хочу сначала сказать, что я не выспался. Я не спал всю ночь, выполняя задания для Бао, так что, возможно, это из-за усталости. Но я услышал что-то действительно ужасное за шумом. Что-то неземное. Надеюсь, что это ничего серьезного.\\\\- Доктор Кен."
+
+#. Key:	BD436658452F820CB9A4BB82E1C76E35
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",BD436658452F820CB9A4BB82E1C76E35"
+msgid "sucks"
+msgstr "отстой"
+
+#. Key:	C15EB7454B046550254F288861BAB7D5
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",C15EB7454B046550254F288861BAB7D5"
+msgid "Really good data!"
+msgstr "Реально хорошие данные!"
+
+#. Key:	C2B1DF5944885A6343D057A0CCC9B317
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/emails/storymode/event_email_week1_randomizer.event_email_week1_randomizer_C:ExecuteUbergraph_event_email_week1_randomizer
+#: [Script Bytecode]
+msgctxt ",C2B1DF5944885A6343D057A0CCC9B317"
+msgid ""
+"Hey Kel, checking in! I hope you're doing alright. Bao really didn't like the idea, but I managed to convience him to let me send you an email! I'm currently taking a break from calibrating our machines and stocking our shelves to send you this. Really hope you're doing well!\r\n"
+"\r\n"
+"Stay safe\r\n"
+"- Dr. Max"
+msgstr ""
+"Привет, Кел! Просто хочу узнать, как ты там. Надеюсь, у тебя всё в порядке. Бао совсем не понравилась эта идея, но я всё-таки смог уговорить его позволить мне отправить тебе письмо! Сейчас я сделал перерыв от калибровки наших машин и пополнения запасов, чтобы написать тебе. Очень надеюсь, что у тебя всё хорошо!\r\n"
+"\r\n"
+"Береги себя,\r\n"
+"- Доктор Макс"
+
+#. Key:	C589AF04471AB544D563B7836DC36836
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",C589AF04471AB544D563B7836DC36836"
+msgid "can not wait for the year to be over so we can hang out again. i am gonna try to get a backup of this one and we can listen to it ensemble once you are done. max may join in too\\\\- ena"
+msgstr "не могу дождаться, когда год закончится, чтобы мы снова могли повидаться. я постараюсь сделать резервную копию этого, и мы сможем послушать это ensemble, как только ты закончишь. макс тоже может присоединиться.\\\\- эна"
+
+#. Key:	C6CEBDC94DF63EF11E4268BC5874C4D9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",C6CEBDC94DF63EF11E4268BC5874C4D9"
+msgid "We can hear things the winds and emission. We still need to refine the data but this is really good.\\\\- Dr. Ken"
+msgstr "Мы слышим вещи, связанные с ветром и излучением. Нам ещё нужно доработать данные, но это уже очень хороший результат.\\\\- Доктор Кен."
+
+#. Key:	C99742084EE68B8F437748A827C0DD42
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",C99742084EE68B8F437748A827C0DD42"
+msgid "spooky shit, kel. whatever make that signal is not friendly. i hope we never encounter it. stay safe out there, kel\\\\- ena"
+msgstr "жуткая хрень, кел. что бы ни создавало этот сигнал, оно не дружелюбное. надеюсь, мы никогда не столкнемся с этим. береги себя там\\\\- эна"
+
+#. Key:	CA6268AE49AF06745215369CD4767256
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",CA6268AE49AF06745215369CD4767256"
+msgid "Needs refining, still"
+msgstr "Ещё нужно доработать."
+
+#. Key:	CD7951434AE02FAF246B88A294E4484C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor
+#: [Script Bytecode]
+msgctxt ",CD7951434AE02FAF246B88A294E4484C"
+msgid "Sending {user}'s #{number} email respond to signal type {type}."
+msgstr "Sending {user}'s #{number} email respond to signal type {type}."
+
+#. Key:	CFFC490C4AA2DCF8EC28CAA7B4DE9E48
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",CFFC490C4AA2DCF8EC28CAA7B4DE9E48"
+msgid "shitty"
+msgstr "говёно"
+
+#. Key:	D4BE9FCE4D766D3BD7F7C6A9F187186D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",D4BE9FCE4D766D3BD7F7C6A9F187186D"
+msgid "i think i could catch something out of this but processing it could help. à +\\\\- ena"
+msgstr "я думаю, что смогу что-то из этого уловить, но обработка может помочь. à +\\\\- эна"
+
+#. Key:	D741F468469D0896694CF08199216BC3
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",D741F468469D0896694CF08199216BC3"
+msgid "Level 3, please?"
+msgstr "Уровень 3, пожалуйста?"
+
+#. Key:	DD3169D64069313F56444E8B7B358EF5
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",DD3169D64069313F56444E8B7B358EF5"
+msgid "I wasn't expecting data like this at all! I'm shocked that you were able to capture something like this. We gotta get drinks with Ena after you're done with the job! I think I could even get Ken to join with us, LOL!\\\\Cheers,\\- Dr. Max"
+msgstr "Я совсем не ожидал таких данных! Просто в шоке, что тебе удалось заполучить что-то подобное. Мы обязательно должны сходить выпить с Эной, когда ты закончишь работу! Думаю, я даже смогу уговорить Кена присоединиться к нам, лол!\\\\Бывай,\\- Доктор Макс"
+
+#. Key:	DE6F4F9D4DC708A4066BC4A4EAA56F85
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",DE6F4F9D4DC708A4066BC4A4EAA56F85"
+msgid "the data is shitty on this drive. bao, the old trouduc isn't very happy. process the drive so he shuts up\\\\- ena"
+msgstr "данные на этом диске полное дерьмо. бао, старый trouduc, не очень доволен. обработай диск, чтобы он заткнулся.\\\\- ena"
+
+#. Key:	DEB1A0564FCE1D01BC9C2DA0FB27672D
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_clear_18_21CB0D5C4928A64B027A51AB2F045CA1.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",DEB1A0564FCE1D01BC9C2DA0FB27672D"
+msgid "bravo kel. the data is très bien and clear. useful for our research. ken really seems pleased about it\\\\- ena"
+msgstr "браво, кел. данные très bien и чёткие. полезны для нашего исследования. кен, похоже, действительно доволен\\\\- эна"
+
+#. Key:	E13C1988453E16AD92841CBD2B59AA03
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(1).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",E13C1988453E16AD92841CBD2B59AA03"
+msgid "This is good, but it's still not really that high of quality. Still a bunch of noise in it. I'm sure we can refine this later. Thanks Kel!\\\\Thanks,\\- Dr. Max"
+msgstr "Это неплохо, но качество всё ещё оставляет желать лучшего. Всё ещё слишком много шума. Уверен, мы сможем доработать это позже. Спасибо, Кел!\\\\Спасибо,\\- Доктор Макс"
+
+#. Key:	E14FF4B9458BF5EA723F849C37C7DFB8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E14FF4B9458BF5EA723F849C37C7DFB8"
+msgid "noisy but maybe usable"
+msgstr "шумное но возможно полезное"
+
+#. Key:	E23AC9B6486C9D4DA7240FAAAB269FE7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E23AC9B6486C9D4DA7240FAAAB269FE7"
+msgid "process it for me, kel"
+msgstr "обработай это для меня, кел"
+
+#. Key:	E2A5196C43EE6D4F52EA8383993A4EA8
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E2A5196C43EE6D4F52EA8383993A4EA8"
+msgid "not of this earth"
+msgstr "не с этой земли"
+
+#. Key:	E2F975F1493919133B761D8000F5B96E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Title
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Title
+msgctxt ",E2F975F1493919133B761D8000F5B96E"
+msgid "Leave."
+msgstr "Оставь."
+
+#. Key:	E3D85D204303B9A4E55261814A3EE63C
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",E3D85D204303B9A4E55261814A3EE63C"
+msgid "better send me a level 3 version, abruti. the data seems very interesting and i really wanna see it\\\\- ena"
+msgstr "лучше отправь мне версию уровня 3, abruti. данные кажутся очень интересными, и я действительно хочу их увидеть\\\\- эна"
+
+#. Key:	E69C0AF94F73AC4D29E8B48978C459E4
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",E69C0AF94F73AC4D29E8B48978C459E4"
+msgid "Flux patterns!"
+msgstr "Флуктуационные паттерны!"
+
+#. Key:	E6F6E1094F43DDBCC87BB98C501A58FD
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Title
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Title
+msgctxt ",E6F6E1094F43DDBCC87BB98C501A58FD"
+msgid "Find Me."
+msgstr "Найди Меня."
+
+#. Key:	E9FDBB0F4B5B9049513CCBACFFD67AB0
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Body
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_findme.Default__event_email_findme_C.Body
+msgctxt ",E9FDBB0F4B5B9049513CCBACFFD67AB0"
+msgid "[Broken Event]"
+msgstr "[Сломанный Ивент]"
+
+#. Key:	EA479EF44854ACCD127DE2BAC922DAB9
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EA479EF44854ACCD127DE2BAC922DAB9"
+msgid "These drives are too noisy right now to really be useful, Kel. I hope your machines are all working well.\\\\Stay safe,\\- Dr. Max"
+msgstr "Эти диски содержат слишком много шума, чтобы они были полезными, Кел. Надеюсь, твои машины работают нормально.\\\\Береги себя,\\- Доктор Макс"
+
+#. Key:	EA5C8CA04835203571815CA8F4E00140
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EA5C8CA04835203571815CA8F4E00140"
+msgid "Yo, Bao is being kinda pissy about the low quality data you're sending in. I tried telling him that it's the machines but all he said was \"He can upgrade the processing machine.\" Not sure what he means.\\\\- Dr. Ken"
+msgstr "Йоу, Бао немного раздражён из-за низкого качества данных, которые ты присылаешь. Я пытался объяснить ему, что это из-за машин, но он сказал только: \"Он может обновить машину для обработки.\" Не совсем понял, что он имеет в виду.\\\\- Доктор Кен."
+
+#. Key:	EAE954E74F9BBC9B4C38BB99CD0D0C31
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",EAE954E74F9BBC9B4C38BB99CD0D0C31"
+msgid "scary"
+msgstr "жутко"
+
+#. Key:	EB03DE624802278A05BE02981DFE362E
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_raw_15_611725B04930374145E646A87B5E4360.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EB03DE624802278A05BE02981DFE362E"
+msgid "really hope your vaisselles are okay, if they’re fucked, we cannot send anyone to fix it for you. if they aren’t, then this data just sucks and you need to process it\\\\- ena"
+msgstr "надеюсь, твои vaisselles в порядке, если они поломаны, мы не сможем никого отправить, чтобы починить их для тебя. эти данные просто отстой, и тебе нужно их обработать\\\\- эна"
+
+#. Key:	EE30EB5940D31E97EC1347B8BD105A19
+#. SourceLocation:	/Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Body
+#: /Game/Mods/EmailPersonalities/emails/random/event_email_leave.Default__event_email_leave_C.Body
+msgctxt ",EE30EB5940D31E97EC1347B8BD105A19"
+msgid ""
+"Get out while you still can, kid.\r\n"
+"\r\n"
+"- [UNKNOWN]"
+msgstr ""
+"Уходи, пока еще можешь, малыш.\r\n"
+"\r\n"
+"- [НЕИЗВЕСТНЫЙ]"
+
+#. Key:	EF1A3AE142BC21328CDB339A17967DCF
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.responses_4_39E9A09E442B620574F248AE409DC7A7(2).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",EF1A3AE142BC21328CDB339A17967DCF"
+msgid "Hey Kel, these drives are really not good. We can barely make out any data on them. Please try to get a higher level drive when you can!\\\\All the best,\\- Dr. Max"
+msgstr "Привет, Кел, эти диски реально не подходят. Мы едва можем разобрать какие-либо данные. Пожалуйста, постарайся высылать диски получше, когда будет возможность!\\\\Всего наилучшего,\\- Доктор Макс"
+
+#. Key:	F063DC3A4F34BA6276CFA699C8B99521
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F063DC3A4F34BA6276CFA699C8B99521"
+msgid "Too noisy"
+msgstr "Слишком много шума"
+
+#. Key:	F10A295548077249EDC50BB3290374FA
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F10A295548077249EDC50BB3290374FA"
+msgid "Decent audio"
+msgstr "Достойный звук"
+
+#. Key:	F117FC0D45FF44E4E677DCBFF12F1421
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_clear_20_0E06806C4E643D342FBC39963711F6D0.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",F117FC0D45FF44E4E677DCBFF12F1421"
+msgid "Kel, this explains so much about deep-space field theory. My team don't even know where to start. The papers we are going to write are going to be worth so much in our field of research!\\\\- Dr. Ken"
+msgstr "Кел, это объясняет так много о теории поля глубокого космоса. Моя команда даже не знает, с чего начать. Документы, которые мы напишем, будут иметь огромную ценность в нашей области исследований!\\\\- Доктор Кен."
+
+#. Key:	F35740F8413874903A18E68793F07B2A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F35740F8413874903A18E68793F07B2A"
+msgid "usable"
+msgstr "полезно"
+
+#. Key:	F7577FFE466D69E1BEB05EAC108435EC
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ken.interest_noisy_19_F748CF0B4583D667F437CDB67A8294A9.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(0).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",F7577FFE466D69E1BEB05EAC108435EC"
+msgid "Surprising results."
+msgstr "Неожиданные результаты."
+
+#. Key:	F7EEB2804B79EC9AEFF26EB40EA72B68
+#. SourceLocation:	/Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor [Script Bytecode]
+#: /Game/Mods/EmailPersonalities/ModActor.ModActor_C:ExecuteUbergraph_ModActor
+#: [Script Bytecode]
+msgctxt ",F7EEB2804B79EC9AEFF26EB40EA72B68"
+msgid "<r>[EMAIL DEBUG ]</> - Sending all emails of <c>{user}</>..."
+msgstr "<r>[ОТЛАДОЧНОЕ СООБЩЕНИЕ]</> - Отправка всех писем от <c>{user}</>..."
+
+#. Key:	FBD964FA45AF4EB57138C08D15B20580
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_noisy_17_7A41F79D43A1339C10B46DB79A1D8E50.responses_4_39E9A09E442B620574F248AE409DC7A7(0).responses_4_39E9A09E442B620574F248AE409DC7A7
+msgctxt ",FBD964FA45AF4EB57138C08D15B20580"
+msgid "I think I can hear something in this, but I really can't make it out. Good job so far, Kel! Ken and his team will be trying to refine this data more.\\\\Hope to talk soon,\\- Dr. Max"
+msgstr "I think I can hear something in this, but I really can't make it out. Good job so far, Kel! Ken and his team will be trying to refine this data more.\\\\Hope to talk soon,\\- Dr. Max"
+
+#. Key:	FBF14556402357E615A02B8FE1738FA7
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FBF14556402357E615A02B8FE1738FA7"
+msgid "Sleep"
+msgstr "Спать"
+
+#. Key:	FD86AA674751E2394B4D818AA7C13370
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_low_16_37B5F9A941EE78D112D36ABF74B2A86D.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FD86AA674751E2394B4D818AA7C13370"
+msgid "More processing, please"
+msgstr "Побольше обработки, по возможности"
+
+#. Key:	FE44ABBE44A892E98D13FC9E6203A803
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Max.normal_raw_15_611725B04930374145E646A87B5E4360.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(2).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FE44ABBE44A892E98D13FC9E6203A803"
+msgid "Not really useful"
+msgstr "Не слишком полезно"
+
+#. Key:	FFE4C53E4489103E3B112AB7C074F56A
+#. SourceLocation:	/Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+#: /Game/Mods/EmailPersonalities/_Content/main/datatables/_list_charactersSignalResponse._list_charactersSignalResponse.Dr_Ena.spooky_clear_21_01E63332476D3C365946A88FDD944987.topics_13_1D17D0B0484E52225DCDB5937D69CE2B(1).topics_13_1D17D0B0484E52225DCDB5937D69CE2B
+msgctxt ",FFE4C53E4489103E3B112AB7C074F56A"
+msgid "gun in the basement"
+msgstr "пушка на базе"
